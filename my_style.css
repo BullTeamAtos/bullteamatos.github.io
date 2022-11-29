@@ -1,0 +1,58 @@
+/* ------------------- CSS generaux */
+html, head { background-color: #C0FFC0; }
+
+html, a:link {
+    text-decoration:none; 
+   }
+
+a {
+    color: red;
+   }
+
+h1 {
+    color: brown;
+   }
+
+article { 
+    color: green; 
+   }
+
+p { 
+    font-family: cursive; 
+  }
+
+/* ------------------- CSS class */
+.navigation { 
+    color: red; 
+   }
+
+.vert { 
+    color: green; 
+   }
+
+.navigation a { 
+    color: grey; 
+   }
+
+/* ------------------- CSS Id */
+#premier { 
+    color: purple; 
+   }
+
+#second { 
+    color: white; 
+   }
+
+
+/* CSS ------------------- autres */
+header a  {
+    color: yellow;
+   }
+
+footer p  {
+    font-size: 12px;
+   }
+
+article img  {
+    margin: 20px 0px 0px 0px;
+    }

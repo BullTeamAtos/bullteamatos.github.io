@@ -11,6 +11,12 @@ a {
 
 h1 {
     color: brown;
+    font-family: "verdana", cursive;
+   }
+
+h2 {
+    color: brown;
+    font-family: "verdana", cursive;
    }
 
 article { 
@@ -20,6 +26,11 @@ article {
 p { 
     font-family: cursive; 
   }
+
+ul {
+    color: brown;
+    font-family: "verdana", cursive;
+   }
 
 /* ------------------- CSS class */
 .navigation { 

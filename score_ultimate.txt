@@ -1,6 +1,16 @@
 Le site WEB officiel de la fédération française d'Ultimate Disc : https://www.ffdf.fr/
 Le site ATOS de l'Ultimate à Grenoble : https://www.cse-abt-fs.fr/44_page_.html
 
+Session du Mercredi 31 Janvier 2024 : 10 personnes
+Bleus gagnants : Sandra, Elie_G, Frederic_D, Nicolas_A, Maurizio
+Oranges : Emeline, Valentin, Raphael, Sylvain_J, Nathan_R, 
+10 à 8 pour les bleus
+
+Session du Mercredi 24 Janvier 2024 : 14 personnes
+Bleus gagnants : Frederic_D, Luca, Sylvain_J, Annais_D, Alexandre_G, Elie_G, Maurizio
+Oranges : Florent_S, Nicolas_A, Sandra, Raphael, Valentin, Ahmed, Dje
+11 à 5 pour les bleus
+
 Session du Mercredi 17 Janvier 2024 : 6 personnes
 Bleus gagnants : Florent_S, Luca, Maurizio
 Oranges : Sylvain_J, Nicolas_A, Valentin
@@ -1095,7 +1105,7 @@ Bleus : Damien_F, Michel, Coralie, Nicolas_A,Christophe_L, Dje
 
 Session du Mercredi 29 Aout 2018 : 13 personnes
 Oranges : Luca, Michel, Coralie,Christophe_L, Christophe A, Maurizio, Wajih
-Bleus gagnants  : Christian B, Damien_F, Dje, Paul K, Antoine, Frederic_D
+Bleus gagnants  : Christian_B, Damien_F, Dje, Paul K, Antoine, Frederic_D
 11 à 9 pour les bleus
 
 Session du Vendredi 20 Juillet 2018 : 5 personnes
@@ -1104,12 +1114,12 @@ Entrainement passe et phase de jeu.
 
 Session du Mercredi 18 Juillet 2018 : 11 personnes
 Oranges : Luca, Michel, Nicolas_A, Goulven, Christophe A, Maurizio
-Bleus gagnants  : Christian B, Coralie, Matthieu, Jerome_Artelia, Wajih
+Bleus gagnants  : Christian_B, Coralie, Matthieu, Jerome_Artelia, Wajih
 7 à 6 pour les bleus
 
 Session du Mercredi 11 Juillet 2018 : 6 personnes
 Oranges gagnants  : Luca, Matthieu, Nicolas_A
-Bleus  : Michel, Damien_F, Christian B
+Bleus  : Michel, Damien_F, Christian_B
 6 à 4 pour les oranges
 
 Session du Vendredi 06 Juillet 2018 : 6 personnes
@@ -1131,7 +1141,7 @@ Bleus gagnants : Guillaume F, Michel, Coralie, Dje, Matthieu, Damien_F
 
 Match 1:
 Oranges gagnants : Benoit_B, Loic_P, Dje, Victor, Maurizio
-Bleus : Christian B, Coralie, Valentin, Marc, Nico_HP
+Bleus : Christian_B, Coralie, Valentin, Marc, Nico_HP
 6 à 5 pour les bleus
 
 Rouges : Michel, Luca, Nicolas_A, Guillaume F, Christophe A
@@ -1143,13 +1153,13 @@ Jaunes gagnants : Damien_F, Wajih, Jerome_Artelia, Yannick, Stenzel
 Oranges : Benoit_B, Loic_P, Dje, Victor, Maurizio
 9 à 5 pour les jaunes
 
-Bleus : Christian B, Coralie, Valentin, Marc, Nico_HP
+Bleus : Christian_B, Coralie, Valentin, Marc, Nico_HP
 Rouges gagnants : Michel, Luca, Nicolas_A, Guillaume F, Christophe A
 6 à 3 pour les rouges 
 
 Session du Mercredi 6 Juin 2018 : 14 personnes sur notre terrain les gens du voyage sont partis
 Oranges gagnants :Dje, Luca, Damien_F, Valentin, Jonathan_F, Marc, Maurizio, 
-Bleus: Nicolas_A, Christian B, Loic_P, Antoine, Jerome_Artelia, Benoit_P, Michel
+Bleus: Nicolas_A, Christian_B, Loic_P, Antoine, Jerome_Artelia, Benoit_P, Michel
 8 à 6 pour les oranges
 
 Session du Vendredi 1 Juin 2018 : 5 personnes sur terrain stabilisé cause gens du voyage
@@ -1177,7 +1187,7 @@ Bleus : Damien_F, Dje, Yannick, Jerome_Artelia
 
 Session du Mercredi 25 Avril 2018 : 20 personnes
 Match #1
-Bleus gagnants : Matthieu, Christian B, Nicolas_A, PL, Maurizio
+Bleus gagnants : Matthieu, Christian_B, Nicolas_A, PL, Maurizio
 Oranges : Luca, Valentin, Wajih,Christophe_L, Christophe A
 6 à 8 pour les bleus
 Match #2
@@ -1186,13 +1196,13 @@ Oranges : Dje, Marc, Loic_P, Jerome_Artelia, Benoit_B
 10 à 8 pour les bleus 		
 
 Session du Vendredi 20 Avril 2018 : 6 personnes
-Bleus : Christian B, Damien_F, Michel
+Bleus : Christian_B, Damien_F, Michel
 Oranges gagnants : Benoit_P, Dje, Yannick
 8 à 7 pour les oranges
 
 Session du Mercredi 18 Avril 2018 : 22 personnes
 Match #1
-Bleus gagnants : Yannick, Matthieu, Christian B, Abdallah, Valentin
+Bleus gagnants : Yannick, Matthieu, Christian_B, Abdallah, Valentin
 Oranges : Nicolas_A, Dje, Yann_Artelia, Jerome_Artelia, Alex_Artelia
 10 à 8 pour les bleus
 Match #2
@@ -1202,7 +1212,7 @@ Jaunes gagnants : Antoine, Damien_F, Sami, Marc, Jonathan_F, Loic_P
 
 Session du Mercredi 11 Avril 2018 : 10 personnes
 Bleus gagnants : Yann_Artelia, Valentin, Luca, Michel, Benoit_B
-Oranges : Christian B, Wajih, Maurizio, Nicolas_A, Guillaume F
+Oranges : Christian_B, Wajih, Maurizio, Nicolas_A, Guillaume F
 8 à 7 pour les bleus
 
 Session du Vendredi 6 Avril 2018 : 12 personnes
@@ -1212,7 +1222,7 @@ Oranges gagnants : Guillaume F, Yannick, Dje, Julien L, Christophe A, Luca
 
 Session du Mercredi 4 Avril 2018 : 15 personnes
 Bleus : Nicolas_A, Dje, Maxime_2, Yannick, Damien_F, Valentin, Pierre P, Loic_P
-Oranges gagnants :  Christian B, Maurizio, Michel, Yann_Artelia, Benoit_B, Marc, Antoine
+Oranges gagnants :  Christian_B, Maurizio, Michel, Yann_Artelia, Benoit_B, Marc, Antoine
 8 à 5 pour les oranges
 
 Session du Mercredi 28 Mars 2018 : 8 personnes
@@ -1244,12 +1254,12 @@ Bleus : Jerome_Artelia, Abdallah, Sami, Benoit_B
 
 Match #2
 Oranges : Yann_Artelia, Nicolas_A, Pierre P, Wajih, Maurizio, 
-Bleus gagnants : Christian B, Benoit_P, Christophe A, Loic_P, Marc
+Bleus gagnants : Christian_B, Benoit_P, Christophe A, Loic_P, Marc
 11 à 5
 
 Session du Mercredi 7 Mars 2018 : 16 personnes
 Oranges gagnants :  Jerome_Artelia, Alexis_Artelia, Marc, Loic_P, Valentin, Damien_F, Nicolas_A, Benoit_B
-Bleus : Maurizio, Michel, Dje, Abdallah, Antoine, Christian B, Benoit_P, Cecile
+Bleus : Maurizio, Michel, Dje, Abdallah, Antoine, Christian_B, Benoit_P, Cecile
 8 à 7 pour les oranges
 
 Session du Mercredi 28 Février 2018 : 9 personnes
@@ -1273,47 +1283,47 @@ Oranges :  Dje, Abdallah, Nicolas_A, Antoine, Loic_P, Pierre P
 8 à 3 pour les bleus
 
 Session du Mercredi 31 Janvier 2018 : 11 personnes
-Bleus : Christian B, Michel, Maurizio, Loic_P, Nicolas_A
+Bleus : Christian_B, Michel, Maurizio, Loic_P, Nicolas_A
 Oranges gagnants :  Benoit_P, Dje, Antoine, Pierre P, Damien_F, Abdallah
 12 à 9 pour les oranges
 
 Session du Mercredi 24 Janvier 2018 : 13 personnes
-Bleus gagnants : Christian B, Michel, Maurizio, Damien_F,Christophe_L, Antoine, Loic_P
+Bleus gagnants : Christian_B, Michel, Maurizio, Damien_F,Christophe_L, Antoine, Loic_P
 Oranges :  Benoit_P, Nicolas_A, Jonathan_G, Jerome_Artelia, Aïmen, Luca
 11 à 10 pour les bleus
 
 Session du Mercredi 10 Janvier 2018 : 12 personnes
-Bleus gagnants : Christian B, Michel, Nico_HP, Nicolas_A, Damien_F,Christophe_L
+Bleus gagnants : Christian_B, Michel, Nico_HP, Nicolas_A, Damien_F,Christophe_L
 Oranges :  Cecile, Dje, Benoit_P, Christophe A, Abdallah, Wajih
 11 à 3 pour les bleus
 
 Session du Mercredi 20 Décembre 2017 : 7 personnes
-Bleus gagnants : Christian B, Benoit_P,  Jerome_Artelia
+Bleus gagnants : Christian_B, Benoit_P,  Jerome_Artelia
 Oranges :  Damien_F, Nicolas_A, Michel, Christophe A
 9 à 5 pour les bleus
 
 Session du Mercredi 13 Décembre 2017 : 10 personnes
-Bleus gagnants: Michel, Christian B, Benoit_P, Benoit_B, Maurizio
+Bleus gagnants: Michel, Christian_B, Benoit_P, Benoit_B, Maurizio
 Oranges : Dje, Damien_F, Nicolas_A, Guillaume F, Jerome_Artelia
 10 à 8 pour les bleus
 
 Session du Mercredi 6 Décembre 2017 : 10 personnes
 Oranges gagnants : Hamid_X, Benoit_B, Wajih, Jerome_Artelia, Maurizio
-Bleus : Michel, Christian B, Abdallah, Nicolas_A, Dje
+Bleus : Michel, Christian_B, Abdallah, Nicolas_A, Dje
 9 à 4 pour les oranges
 
 Session du Mercredi 29 Novembre 2017 : 11 personnes
-Bleus gagnants  : Michel, Christian B, Jerome_Artelia, Maurizio, Abdallah, Damien_F
+Bleus gagnants  : Michel, Christian_B, Jerome_Artelia, Maurizio, Abdallah, Damien_F
 Oranges : Benoit_P, Benoit_B, Wajih, Nicolas_A, Dje
 12 à 7 pour les bleus
 
 Session du Mercredi 22 Novembre 2017 : 9 personnes
-Bleus  : Michel, Christian B, Sami, Christophe A,Christophe_L
+Bleus  : Michel, Christian_B, Sami, Christophe A,Christophe_L
 Oranges gagnants: Damien_F, Benoit_P,  Maurizio, Nicolas_A
 8 à 5 pour les oranges
 
 Session du Mercredi 15 Novembre 2017 : 11 personnes
-Bleus gagnants  : Michel, Jerome_Artelia, Christian B, Benoit_P, Christophe A, Maurizio
+Bleus gagnants  : Michel, Jerome_Artelia, Christian_B, Benoit_P, Christophe A, Maurizio
 Oranges : Damien_F, Guillaume F, Sami, Nicolas_A, Benoit_B
 8 à 5 pour les bleus
 
@@ -1323,12 +1333,12 @@ Oranges gagnants  : Dje, Maurizio,Christophe_L
 7 à 5 pour les Oranges
 
 Session du Mercredi 25 Octobre 2017 : 7 personnes
-Bleus gagnants : Damien_F, Nicolas_A, Christian B
+Bleus gagnants : Damien_F, Nicolas_A, Christian_B
 Oranges gagnants :  Nico_HP, Michel, Maurizio, Sami
 8 à 5 pour les Bleus changement de joueur et d'equipes en cours de jeu
 
 Session du Mercredi 18 Octobre 2017 : 9 personnes
-Bleus gagnants : Michel, Christophe A, Christian B, Yann_Artelia, Wajih
+Bleus gagnants : Michel, Christophe A, Christian_B, Yann_Artelia, Wajih
 Oranges :  Benoit_B, Dje, Nicolas_A, Maurizio
 8 à 4 pour les Bleus
 
@@ -1453,17 +1463,17 @@ Bleus gagnants : Michel, Maurizio, François_Artelia, Abdallah
 
 Session du Mercredi 10 Mai 2017 : 14 personnes
 Oranges : Nico_HP, Dje, Christophe A, François_Artelia, Alexis_Artelia, Abdallah, Jerome_Artelia
-Bleus gagnants : Michel, Benoit_P, Christian B, Damien_F, Maurizio, Pierre F, Guillaume F
+Bleus gagnants : Michel, Benoit_P, Christian_B, Damien_F, Maurizio, Pierre F, Guillaume F
 9 à 7 pour les bleus
 
 Session du Vendredi 5 Mai 2017 : 15 personnes
 Oranges : Simon C, Nicolas_Artelia, , Pauline_Artelia, Jerome_Artelia, JérômeT_Artelia, François_Artelia, Tjomme 
-Bleus gagnants : Michel, Benoit_P, Christian B, Damien_F, Dje, Wajih, Christophe B, Maurizio
+Bleus gagnants : Michel, Benoit_P, Christian_B, Damien_F, Dje, Wajih, Christophe B, Maurizio
 10 à 8 pour les bleus
 
 Session du Mercredi 3 Mai 2017  : 8 personnes
 Rouges : Michel, François_Artelia, Benoit_P, Dje
-Jaunes gagnants  : Christian B, Maurizio, Nico_HP, Damien_F
+Jaunes gagnants  : Christian_B, Maurizio, Nico_HP, Damien_F
 7 à 6 pour les jaunes
 
 Session du Mercredi 11 Avril 2017 : 9 personnes
@@ -1473,23 +1483,23 @@ Jaunes gagnants : Christophe B, Romaric, Nico_HP, Maurizio
 
 Session du Vendredi 7 Avril 2017 : 6 personnes
 Oranges gagnants : Damien_F, Nico_HP, Maurizio
-Bleus gagnants : Benoit_P, Christian B, Wajih
+Bleus gagnants : Benoit_P, Christian_B, Wajih
 7 à 7 match nul
 
 Session du Mercredi 4 Avril 2017 : 10 personnes
 Oranges : Benoit_P, Maurizio,Christophe_L, Luca, Sylvain C
-Bleus gagnants : Romaric, Christian B, Michel, François_Artelia
+Bleus gagnants : Romaric, Christian_B, Michel, François_Artelia
 6 à 5 pour les bleus
 
 Session du Mercredi 29 Mars 2017 : 7 personnes
 Oranges gagnants : Romaric, Michel, Damien_F, Yann_Artelia
-Bleus gagnants : Christian B,Christophe_L, Maurizio
+Bleus gagnants : Christian_B,Christophe_L, Maurizio
 6 à 4 pour les oranges (pas de vainqueur, match à 6, tournant)
 terrain marqué avec lignes de craie (première!)
 
 Session du Mercredi 22 Mars 2017 : 13 personnes
 Oranges : Maurizio, Dje,Christophe_L, Loic_P, Guillaume F, Luca
-Bleus gagnants : Christian B, Benoit_P, Romaric, Michel, Damien_F, Yann_Artelia, Alexis_Artelia
+Bleus gagnants : Christian_B, Benoit_P, Romaric, Michel, Damien_F, Yann_Artelia, Alexis_Artelia
 7 à 5 pour les bleus
 
 Session du Vendredi 17 Mars 2017 : 10 personnes
@@ -1499,12 +1509,12 @@ Bleus : Jerome_Artelia, Nicolas_Artelia, Tjomme , Alban, Yann_Artelia
 
 Session du Mercredi 15 Mars 2017 : 10 personnes
 Oranges gagnants : Benoit_P, Damien_F, Guillaume F, Luca, Maurizio
-Bleus : Clément J, Christian B, Romaric,Christophe_L, Dje
+Bleus : Clément J, Christian_B, Romaric,Christophe_L, Dje
 10 à 3 pour les oranges
 
 Session du Mercredi 22 Février 2017 : 8 personnes
 Jaunes : Damien_F, Benoit_P, Clément J
-Bleus gagnants : Michel, Nico_HP, Christian B
+Bleus gagnants : Michel, Nico_HP, Christian_B
 8 à 4 pour les bleus
 
 Session du Vendredi 17 Février 2017 :  personnes
@@ -1519,25 +1529,25 @@ Oranges : Dje, Christophe_L, Jérémie
 
 Session du Mercredi 1 Février 2017 : 8 personnes
 Oranges gagnants : Dje, Damien_F,Christophe_L, Maurizio
-Bleus : Michel, Benoit_P, Christian B, Wajih
+Bleus : Michel, Benoit_P, Christian_B, Wajih
 8 à 5 pour les oranges
 
 Session du Vendredi 27 Janvier 2017  : 6 personnes
-Rouges gagnants : Christian B, Dje, Guillaume F
+Rouges gagnants : Christian_B, Dje, Guillaume F
 Jaunes : Julien L, Benoit_P, Maurizio
 8 à 5 pour les Rouges 
 
 Session du Mercredi 18 Janvier 2017  : 4 personnes
-Entrainement gagnants : Benoit_P, Christian B, Luca, Maurizio
+Entrainement gagnants : Benoit_P, Christian_B, Luca, Maurizio
 Terrain enneigé 
 
 Session du Mercredi 11 Janvier 2017  : 7 personnes
-Participants gagnants :Christophe_L, Dje, Wajih, Benoit_P, Christian B, Michel, Maurizio
+Participants gagnants :Christophe_L, Dje, Wajih, Benoit_P, Christian_B, Michel, Maurizio
 les rouges l'emportent
 
 Session du Mercredi 7 Décembre 2016  : 6 personnes
 Rouges : Maurizio, Michel, Dje
-Jaunes gagnants : Christian B, Christophe A, Romaric
+Jaunes gagnants : Christian_B, Christophe A, Romaric
 7 à 5 pour les jaunes
 
 Session du Vendredi 2 Décembre 2016  : 6 personnes
@@ -1557,7 +1567,7 @@ Jaunes : Jerome_Artelia, Alexis_Artelia, Nicolas_Artelia, Tjomme
 
 Session du Mercredi 23 Novembre 2016  : 9 personnes
 Jaunes gagnants : Michel,Christophe_L, Romaric, Maurizio, Dje
-Rouges : Christian B, Benoit_P, Luca, Loic_P
+Rouges : Christian_B, Benoit_P, Luca, Loic_P
 8 à 6 pour les jaunes
 
 Session du Mercredi 16 Novembre 2016  : 8 personnes
@@ -1566,7 +1576,7 @@ Rouges gagnants : Loic_P, Nico_HP, Maurizio, Dje
 11 à 4 pour les rouges
 
 Session du Vendredi 4 Novembre 2016 : 7 personnes 
-Bleus gagnants : Benoit_P, Christian B, Christophe A, Romaric
+Bleus gagnants : Benoit_P, Christian_B, Christophe A, Romaric
 Rouges gagnants : Michel, Luca, Maurizio
 8 à 5 pour les Bleus (2 equipes de 3 avec un remplaçant tournant)
 
@@ -1575,21 +1585,21 @@ Entrainement gagnants : Luca, Dje,Christophe_L, Christophe B, Maurizio
 
 Session du Vendredi 21 Octobre 2016 : 4 personnes
 Oranges gagnants : Jerome_Artelia, Maurizio
-Bleus gagnants : Benoit_P, Christian B
+Bleus gagnants : Benoit_P, Christian_B
 10 à 6 pour les Bleus 
 
 Session du Mercredi 19 Octobre 2016 : 13 personnes
 Oranges gagnants : Dje,Christophe_L, Nico_HP, Olivier, Axel, Luca
-Bleus : Christophe A, Christophe B, Romaric, Michel, Benoit_P, Christian B, Maurizio
+Bleus : Christophe A, Christophe B, Romaric, Michel, Benoit_P, Christian_B, Maurizio
 9 à 4 pour les oranges
 
 Session du Mercredi 12 Octobre 2016 : 12 personnes
-Jaunes gagnants : Romaric, Yann_Artelia, Alexis_Artelia, Christian B, Christophe A,Christophe_L
+Jaunes gagnants : Romaric, Yann_Artelia, Alexis_Artelia, Christian_B, Christophe A,Christophe_L
 Bleus  : Maurizio, Michel, Benoit_P, Christophe B, Nico_HP, Dje
 7 à 6 pour les jaunes
 
 Session du Mercredi 05 Octobre 2016 : 7 personnes
-Oranges gagnants : Christian B, Christophe B, Romaric
+Oranges gagnants : Christian_B, Christophe B, Romaric
 Bleus gagnants : Christophe A, Dje, Michel, Maurizio
 11 à 8 pour les bleus, jeu à 3 contre 3 avec un joueur tournant dans chaque équipe
 
@@ -1600,11 +1610,11 @@ Bleus gagnants : Benoit_P,Christophe_L, Dje, Maurizio
 
 Session du Mercredi 28 Septembre 2016 : 9 personnes
 Oranges : Benoit_P, Christophe A,Christophe_L, Dje
-Bleus gagnants : Michel, Christian B, Luca, Maurizio, Matthieu
+Bleus gagnants : Michel, Christian_B, Luca, Maurizio, Matthieu
 11 à 8 pour les bleus
 
 Session du Vendredi 23 Septembre 2016 : 10 personnes
-Bleus gagnants : Benoit_P, Christian B, Christophe A, Luca, Maurizio
+Bleus gagnants : Benoit_P, Christian_B, Christophe A, Luca, Maurizio
 Rouges : Jerome_Artelia, Yann_Artelia, Artelia01, Artelia02, Artelia03
 10 à 7 pour les Bleus 
 
@@ -1614,13 +1624,13 @@ Rouges gagnants : Michel, Luca, Romaric
 10 à 5 pour les rouges
 
 Session du Vendredi 16 Septembre 2016 : 8 personnes
-Jaunes gagnants : Jerome_Artelia, Benoit_P, Christian B, Maurizio
+Jaunes gagnants : Jerome_Artelia, Benoit_P, Christian_B, Maurizio
 Rouges :  Yann_Artelia, Artelia01, Artelia02, Artelia03
 7 à 6  pour les Jaunes
 
 Session du Mercredi 14 Septembre 2016 : 13 personnes
 Oranges gagnants : Maurizio, Benoit_P,Christophe_L, Christophe A, Dje, PL, Nico_HP
-Bleus : Michel, Christian B, Luca, Loic_P, Romaric, Bertrand
+Bleus : Michel, Christian_B, Luca, Loic_P, Romaric, Bertrand
 8 à 7 pour les oranges
 
 Session du Vendredi 9 Septembre 2016  : 12 personnes
@@ -1630,12 +1640,12 @@ Rouges gagnants :  Nico_HP, Laura_Artelia, Yann_Artelia, Artelia01, Artelia02, J
 
 Session du Mercredi  7 Septembre 2016 : 8 personnes
 Rouges gagnants : Benoit_P, Maurizio, Christophe A, Bertrand
-Jaunes : Christian B, Michel, Luca, Loic_P
+Jaunes : Christian_B, Michel, Luca, Loic_P
 6 à 5 pour les rouges
 
 Session du Mercredi 24 Aout 2016 : 14 personnes
 Oranges gagnants : Maurizio, Benoit_P, Loic_P, Victor, Clément J, Wajih, Romaric
-Bleus : Michel, Christian B, Vianney,Christophe_L, Dje, Charles, PL
+Bleus : Michel, Christian_B, Vianney,Christophe_L, Dje, Charles, PL
 7 à 6 pour les oranges
 
 Session du Mercredi 17 Aout 2016 : 6 personnes
@@ -1671,7 +1681,7 @@ Bleus gagnants :  Michel, Vianney,Christophe_L, Dje, Damien_F, Vincent B
 
 Session du Lundi 04 Juillet 2016  : 7 personnes
 Entrainement + match avec un remplaçant tournant sur les 2 équipes
-Rouges-Jaunes gagnants : Luca M, Benoit_P, Christian B, Damien_F, Julien L, Nico_HP, Maurizio 
+Rouges-Jaunes gagnants : Luca M, Benoit_P, Christian_B, Damien_F, Julien L, Nico_HP, Maurizio 
 4 à 4 match nul
 
 Session du Vendredi 01 Juillet 2016  : 6 personnes
@@ -1681,27 +1691,27 @@ Rouges: Benoit_P, Maurizio, Vincent B
 
 Session du Mercredi 22 Juin 2016  : 10 personnes
 Oranges  gagnants :  Damien_F, Michel, Nico_HP, Yann_Artelia, Maurizio 
-Bleus :  Benoit_P, Christian B,Christophe_L, Romaric, Raphaël
+Bleus :  Benoit_P, Christian_B,Christophe_L, Romaric, Raphaël
 7 à 6 pour les oranges
 
 Session du Lundi 20 Juin 2016  : 6 personnes
 Oranges  gagnants : Benoit_P,Christophe_L, Vianney
-Bleus :  Christian B, Damien_F, Maurizio
+Bleus :  Christian_B, Damien_F, Maurizio
 6 à 5 pour les oranges
 
 Session du Lundi 13 Juin 2016  : 9 personnes
 Oranges  gagnants : Luca M, Nico_HP, Maurizio, Damien_F, Michel
-Bleus :  Christian B, Dje,Christophe_L, Vianney
+Bleus :  Christian_B, Dje,Christophe_L, Vianney
 10 à 4 pour les oranges
 
 Session du Vendredi 10 Juin 2016  : 10 personnes
 Oranges gagnants : Luca M, Florent_B, Vianney,Christophe_L, Vincent B
-Bleus :  Christian B, Benoit_P, LouisP, Christophe A, Maurizio
+Bleus :  Christian_B, Benoit_P, LouisP, Christophe A, Maurizio
 10 à 5 pour les oranges
 
 Session du Mercredi 8 Juin 2016  : 10 personnes
 Oranges gagnants : Luca M, Michel, Damien_F, Vianney,Christophe_L
-Bleus :  Christian B, Benoit_P, Florent_B, Vincent B, Maurizio
+Bleus :  Christian_B, Benoit_P, Florent_B, Vincent B, Maurizio
 10 à 6 pour les oranges
 
 Session du Lundi 6 Juin 2016  : 8 personnes
@@ -1715,7 +1725,7 @@ Rouges gagnants :  Damien_F, Michel, Vianney, Maurizio
 11 à 6  pour les Rouges
 
 Session du Mercredi 25  Mai 2016  : 7 personnes
-Oranges   : Christian B, Florent_B, Romaric
+Oranges   : Christian_B, Florent_B, Romaric
 Bleus gagnants :  Luca M, Maurizio, Vianney, Michel
 11 à 5  pour les bleus
 Sur terrain Frange Verte
@@ -1726,28 +1736,28 @@ Bleus gagnants :  Damien_F, Florent_B
 8 à 6  pour les bleus
 
 Session du Mercredi 4 Mai 2016 : 6 personnes
-Bleus gagnants : Christian B, Luca M, Jerome_Artelia
+Bleus gagnants : Christian_B, Luca M, Jerome_Artelia
 Oranges : Michel, Romaric, Maurizio
 10 à 5 pour les Bleus 
 
 Session du Lundi 2 Mai 2016 : 13 personnes
 Oranges : Yann_Artelia, Alexis_Artelia, Nico_ART, Loic_ART, Vianney, Michel, Jerome_Artelia
-Bleus gagnants : Christian B, Vincent B, Benoit_P, Damien_F, Florent_B, Maurizio
+Bleus gagnants : Christian_B, Vincent B, Benoit_P, Damien_F, Florent_B, Maurizio
 12 à 4 pour les Bleus
 
 Session du Vendredi 29 Avril 2016  : 8 personnes
-Bleus : Christian B, Vincent B, Clément J, Luca M
+Bleus : Christian_B, Vincent B, Clément J, Luca M
 Oranges gagnants : Benoit_P, Yann_Artelia, Alexis_Artelia, Maurizio
 9 à 5 pour les oranges 
 
 Session du Mercredi 27  Avril 2016  : 13 personnes
-Bleus : Christian B, Loic_P, Florent_B, Vincent B, Sylvain C, Jerome_Artelia, Yann_Artelia
+Bleus : Christian_B, Loic_P, Florent_B, Vincent B, Sylvain C, Jerome_Artelia, Yann_Artelia
 Oranges gagnants : Romaric, Damien_F, Michel, Vianney, Juliana, Maurizio
 9 à 8 pour les oranges 
 
 Session du Lundi 25 Avril 2016  : 8 personnes
 Bleus : Damien_F, Michel, Maurizio
-Rouges gagnants : Christian B, Benoit_P, Vianney
+Rouges gagnants : Christian_B, Benoit_P, Vianney
 10 à 7  pour les rouges
 
 Session du Mercredi 20  Avril 2016  : 5 personnes
@@ -1762,22 +1772,22 @@ Rouges : Romaric, Julien L, Michel
 
 Session du Vendredi 8  Avril 2016  : 4 personnes
 Oranges : Michel, Damien_F
-Bleus gagnants:  Christian B, Maurizio
+Bleus gagnants:  Christian_B, Maurizio
 8 à 4 pour les bleus
 
 Session du Mercredi 6  Avril 2016  : 15 personnes
-Oranges : Christian B, Maurizio, Damien_F, Vianney, Loic_P, Clément J, Simon
+Oranges : Christian_B, Maurizio, Damien_F, Vianney, Loic_P, Clément J, Simon
 Bleus gagnants :  Michel, Benoit_P,Christophe_L, Guillaume F, Romaric, Julien L, Florent_B, Yvan
 8 à 7 pour les bleus
 
 Session du Lundi 4 Avril 2016  : 8 personnes
-Oranges gagnants: Christian B, Maurizio, Damien_F, Vianney
+Oranges gagnants: Christian_B, Maurizio, Damien_F, Vianney
 Bleus :  Michel, Benoit_P,Christophe_L, Guillaume F
 11 à 6 pour les oranges
 
 Session du Mercredi 30 Mars 2016  : 11 personnes
 Oranges gagnants: Michel, Benoit_P, Romaric, Abdou, Christophe A, Vianney
-Bleus : Maurizio, Christian B, Mike, Simon, Loic_P
+Bleus : Maurizio, Christian_B, Mike, Simon, Loic_P
 11 à 9 pour les oranges
 
 Session du Vendredi 25 Mars 2016  : 4 personnes
@@ -1786,22 +1796,22 @@ Jaunes gagnants: Damien_F, Michel
 Matchs avec changement de joueurs tous les 3 points
 
 Session du mercredi 23 Mars 2016  : 7 personnes
-Bleus : Christian B, Florent_B, Guillaume F
+Bleus : Christian_B, Florent_B, Guillaume F
 Oranges gagnants:  Vianney, Loic_P, Romaric, Maurizio
 8 à 5 pour les oranges 
 
 Session du mercredi 16 Mars 2016  : 6 personnes
-Bleus : Christian B, Florent_B, Maurizio
+Bleus : Christian_B, Florent_B, Maurizio
 Jaunes gagnants:  Damien_F, Michel, Romaric
 9 à 7 pour les Jaunes
 
 Session du vendredi 11 Mars 2016  : 5 personnes
 Rouges gagnants: Romaric, Vincent B, Maurizio
-Jaunes: Sylvain C, Christian B
+Jaunes: Sylvain C, Christian_B
 9 à 5 pour les rouges
 
 Session du mercredi 24 Février 2016  : 13 personnes
-Oranges gagnants: Christian B, Michel, Benoit_P, Maurizio,Christophe_L, Matthieu, Damien_F
+Oranges gagnants: Christian_B, Michel, Benoit_P, Maurizio,Christophe_L, Matthieu, Damien_F
 Bleus : Guillaume F, PL, Florent_B, Clément J, Sylvain C, Romaric, Damien_F
 10 à 8 pour les oranges
 
@@ -1811,12 +1821,12 @@ Rouges gagnants: Michel, Florent_B, Jerome_Artelia
 5 à 3 pour les rouges puis 11 à 8 pour les jaunes apres echange de joueurs
 
 Session du lundi  08 Février 2016  : 4 personnes
-Oranges : Christian B, Michel
+Oranges : Christian_B, Michel
 Bleus gagnants: Simon, Maurizio
 8 à 11 pour les Bleus
 
 Session du vendredi 5 Février 2016  : 6 personnes
-Oranges gagnants: Christian B, Michel, Maurizio
+Oranges gagnants: Christian_B, Michel, Maurizio
 Bleus : Benoit_P, Jerome_Artelia, Clément J
 8 à 7 pour les oranges
 
@@ -1826,23 +1836,23 @@ Bleus : Damien_F, Florent_B, Vincent B
 10 à 6 pour les oranges
 
 Session du lundi  1 Février 2016  : 4 personnes
-Oranges gagnants: Christian B, Benoit_P
+Oranges gagnants: Christian_B, Benoit_P
 Bleus : Maurizio, Vianney 
 9 à 11 pour les Oranges
 
 Session du vendredi 29 Janvier 2016  : 5 personnes
-Oranges gagnants: Christian B, Damien_F, Bernard H
+Oranges gagnants: Christian_B, Damien_F, Bernard H
 Bleus gagnants: Maurizio, Benoit_P
 7 à 7 match nul
 
 Session du mercredi  27  Janvier 2016  : 13 personnes
 Oranges gagnants: Damien_F,Christophe_L, Vianney, Michel, Guillaume F, Simon
-Bleus : Maurizio, Benoit_P, Christian B, Florent_B, Christophe A, Jerome_Artelia, Yann_Artelia
+Bleus : Maurizio, Benoit_P, Christian_B, Florent_B, Christophe A, Jerome_Artelia, Yann_Artelia
 7 à 6 pour les oranges (ou 8 à 7) 
 
 Session du lundi  24  Janvier 2016  : 6 personnes
 Oranges : Damien_F, Vianney, Michel
-Bleus gagnants: Maurizio, Benoit_P, Christian B
+Bleus gagnants: Maurizio, Benoit_P, Christian_B
 9 à 4 pour les bleus 
 
 Session du mercredi 20 Janvier 2016  : 7 personnes
@@ -1856,12 +1866,12 @@ Bleus: Michel, Clément J, Jerome_Artelia, Maurizio
 7 à 4 pour les Jaunes
 
 Session du mercredi 13 Janvier 2016  : 9 personnes
-Jaunes gagnants: Christian B, Simon,Christophe_L, Nico_HP, Maurizio
+Jaunes gagnants: Christian_B, Simon,Christophe_L, Nico_HP, Maurizio
 Rouges: Benoit_P, Michel, Vianney, Florent_B
 6 à 4 pour les Jaunes 
 
 Session du vendredi 08 Janvier 2016  : 5 personnes
-Bleus: Benoit_P, Christian B
+Bleus: Benoit_P, Christian_B
 Oranges gagnants:   Michel, Nico_HP, Maurizio
 6 à 5 pour les oranges
 
@@ -1911,7 +1921,7 @@ Rouges gagnants: Michel, Damien_F, Florent_B, Guillaume F, Yann_Artelia
 9 à 9 changement de joueurs 
 
 Session du Lundi 26 Octobre 2015  : 7 personnes
-Joueurs gagnants: Cynthia, Wajih, Benoit_P, Yann_Artelia, Maurizio, Christian B, Michel
+Joueurs gagnants: Cynthia, Wajih, Benoit_P, Yann_Artelia, Maurizio, Christian_B, Michel
 5 à 3 pour les Oranges (joueurs tournants, blessure de Christian)
 
 Session du Vendredi 23 Octobre 2015  : 6 personnes
@@ -1920,21 +1930,21 @@ Bleus : Benoit_P, Yann_Artelia, Maurizio
 8 à 4 pour les oranges
 
 Session du Mercredi 21 Octobre 2015  : 7 personnes
-Joueurs gagnants: Michel, Damien_F, Florent_B, Guillaume F, Christian B, Clément J, Yann_Artelia
+Joueurs gagnants: Michel, Damien_F, Florent_B, Guillaume F, Christian_B, Clément J, Yann_Artelia
 Match gagné par les jaunes 7 à 6 (joueurs tournants)
 
 Session du Vendredi 9 Octobre 2015  : 9 personnes
-Joueurs gagnants: Wajih, Guillaume F, Dje, Maurizio, Christian B, Simon2, Damien_F, Michel, Clément J
+Joueurs gagnants: Wajih, Guillaume F, Dje, Maurizio, Christian_B, Simon2, Damien_F, Michel, Clément J
 8 à 4 pour les Bleus (joueurs tournants)
 
 Session du Mercredi 7 Octobre 2015  : 6 personnes
 Oranges: Wajih, Damien_F, Maurizio
-Bleus gagnants: Christian B, Florent_B, Guillaume F
+Bleus gagnants: Christian_B, Florent_B, Guillaume F
 7 à 4 pour les Bleus
 
 Session du Mercredi 30 Septembre 2015  : 10 personnes
 Oranges: Benoit_P, Wajih, Florent_B, Mike, Maurizio
-Bleus gagnants: Christian B, Clément J, Guillaume F, Damien_F, Michel
+Bleus gagnants: Christian_B, Clément J, Guillaume F, Damien_F, Michel
 9 à 8 pour les Bleus
 
 Session du Vendredi 23 Septembre 2015  : 7 personnes
@@ -1943,17 +1953,17 @@ Oranges : Benoit_P, Damien_F, Clément J, Matthieu
 8 à 5 pour les Bleus
 
 Session du Mercredi 21 Septembre 2015  : 7 personnes
-Bleus gagnants: Christian B (blessé  10 mn avant la fin du match), Damien_F, Wajih, Maurizio
+Bleus gagnants: Christian_B (blessé  10 mn avant la fin du match), Damien_F, Wajih, Maurizio
 Oranges : Benoit_P, Vianney (blessé à la fin du match), Guillaume F
 5 à 4 pour les Bleus
 
 Session du lundi 21 Septembre 2015  : 8 personnes
 Oranges gagnants: Yann_Artelia, Benoit_P, Vianney, Maurizio
-Bleus : Christian B, Michel, Michael, Damien_F
+Bleus : Christian_B, Michel, Michael, Damien_F
 8 à 3 pour les oranges 
 
 Session du mercredi 16 Septembre 2015  : 13 personnes
-Jaunes gagnants: Damien_F, Christian b, Benoit_P, Yvan, Wajih, Vincent B
+Jaunes gagnants: Damien_F, Christian_B, Benoit_P, Yvan, Wajih, Vincent B
 Rouges : Michel, Vianney, Maurizio, Clément J, Yann_Artelia, Loic_P, Romaric
 7 à 1 pour les jaunes
 
@@ -1964,16 +1974,16 @@ Bleus : Benoit_P, Vincent B, Michael
 
 Session du mercredi 9 Septembre 2015  : 14 personnes
 Oranges gagnants: Wajih, Michel, Romaric, Loic_P, Benoit_P, Vianney, Guillaume F
-Bleus : Mike, Sylvain_J, Maurizio, Adrien, Christian B, Jean,Christophe_L
+Bleus : Mike, Sylvain_J, Maurizio, Adrien, Christian_B, Jean,Christophe_L
 8 à 6 pour les oranges 
 
 Session du lundi 7 Septembre 2015  : 6 personnes
 Oranges : Guillaume F, Vianney, Maurizio
-Bleus gagnants: Christian B, Benoit_P,Christophe_L
+Bleus gagnants: Christian_B, Benoit_P,Christophe_L
 8 à 7 pour les bleus
 
 Session du vendredi 4 Septembre 2015  : 13 personnes
-Jaunes gagnants: Christian B, PL, Sylvain_J, Maurizio, Yann_Artelia, Wajih, Marie
+Jaunes gagnants: Christian_B, PL, Sylvain_J, Maurizio, Yann_Artelia, Wajih, Marie
 Rouges : Damien_F,Christophe_L, Nem, Michel, Benoit_P, Clément J
 10 à 6 pour les jaunes
 
@@ -1984,12 +1994,12 @@ Bleus gagnants: Marie, Abdou, Nem, Sylvain_J, Vianney, Romaric, Maurizio
 
 Session du lundi 31 Aout 2015  : 9 personnes
 Oranges : Michel, Vincent B, Damien_F, Vianney, Yann_Artelia
-Bleus gagnants: Christian B, Benoit_P, Nico_HP, Matthieu
+Bleus gagnants: Christian_B, Benoit_P, Nico_HP, Matthieu
 8 à 4 pour les bleus
 
 Session du vendredi 28 Aout 2015  : 10+1 personnes
 Oranges gagnants: Matthieu, Michel, Nem, Nicolas_Artelia, Sylvain_J
-Bleus : Christian B, Cynthia, Yann_Artelia, Loïc X, Damien_F, Laura
+Bleus : Christian_B, Cynthia, Yann_Artelia, Loïc X, Damien_F, Laura
 8 à 7 pour les oranges 
 
 Session du mercredi 26 Aout 2015  : 11 personnes
@@ -2019,12 +2029,12 @@ xxx à xx pour les bleus
 
 Session du mercredi 15 Juillet 2015  : 8 personnes
 Oranges : Benoit L, Nem, Maurizio, Dje
-Bleus gagnants: Guillaume F, Vianney, Christian B,Christophe_L
+Bleus gagnants: Guillaume F, Vianney, Christian_B,Christophe_L
 12 à 4 pour les bleus 
 
 Session du lundi 13 Juillet 2015  : 6 personnes
 Oranges gagnants: Dje, Guillaume F, Maurizio
-Bleus : Christian B, Vianney, Michel
+Bleus : Christian_B, Vianney, Michel
 7 à 4 pour les Oranges 
 
 Session du mercredi 8 Juillet 2015  : 10 personnes
@@ -2034,16 +2044,16 @@ Bleus : Guillaume F, Vianney, Sylvain C, Ophélie, Yohann
 
 Session du mercredi 1er Juillet 2015  : 10 personnes
 Oranges : Dje, Damien_F, Florent_P,Christophe_L, Ophélie
-Bleus gagnants: Nem, Christian B, Maurizio, Vincent B
+Bleus gagnants: Nem, Christian_B, Maurizio, Vincent B
 11 à 3 pour les bleus 
 
 Session du mercredi 24 Juin 2015  : 14 personnes
-bleus gagnants: Michel, Maurizio, Benoit_P, Christian B, Mike, Julien V, Nem
+bleus gagnants: Michel, Maurizio, Benoit_P, Christian_B, Mike, Julien V, Nem
 Jaunes : PL,Christophe_L, Ophélie, Damien_F, Florent_P, Sylvain_J, Vincent B
 12 à 6 pour les bleus 
 
 Session du lundi 22 Juin 2015  : 10 personnes
-Oranges gagnants: Christian B, Nico_HP, Maurizio , Vincent B, Damien_F
+Oranges gagnants: Christian_B, Nico_HP, Maurizio , Vincent B, Damien_F
 Bleus : Guillaume F,Christophe_L, Benoit_P, Cynthia, Nem
 8 à 3 pour les oranges 
 
@@ -2065,7 +2075,7 @@ Bleus : Ophélie, PL, Guillaume F, Damien_F, Mike
 
 Session du vendredi 5 Juin 2015  : 9 personnes
 Jaunes :Christophe_L, Dje, Damien_F, Nicolas X
-Bleus gagnants: Michel, Maurizio, Christian B, Cynthia, Guillaume F
+Bleus gagnants: Michel, Maurizio, Christian_B, Cynthia, Guillaume F
 8 à 6 pour les bleus 
 
 Session du Mercredi 3 Juin 2015: 11 personnes
@@ -2075,12 +2085,12 @@ Oranges: Ophélie, Julien V, Guillaume F,Christophe_L, Maurizio
 
 Session du Lundi 1 Juin 2015: 5 personnes
 Jaunes gagnants: Damien_F, Vianney, Maurizio
-Rouges : Benoit_P, Christian B
+Rouges : Benoit_P, Christian_B
 11 à 6 pour les jaunes
 
 Session du Vendredi 29 Mai 2015  : 8+1 personnes
 Rouges : Michel, Benoit_P,Christophe_L, Dje, Julien V
-Bleus gagnants: Damien_F, Maurizio, Cynthia, Christian B, Sylvain C
+Bleus gagnants: Damien_F, Maurizio, Cynthia, Christian_B, Sylvain C
 11 à 9 pour les bleus 
 
 Session du Mercredi 27 Mai 2015  : 12 personnes
@@ -2089,33 +2099,33 @@ Bleus gagnants: Michel, Cynthia, Damien_F, Mike, Guillaume, Florent_P
 7 à 5  pour les bleus 
 
 Session du vendredi 22 Mai 2015  : 9 personnes
-Rouges : Michel, Florent_P, Christian B, Nico_HP
+Rouges : Michel, Florent_P, Christian_B, Nico_HP
 Bleus gagnants:  Damien_F, Julien V, Maurizio, Cynthia, Dje
 11 à 6 pour les bleus 
 
 Session du Mercredi 20 Mai 2015  : 8 personnes
 Rouges : Mike, Sylvain_J, Nem, PL
-Bleus gagnants: Christian B, Julien V, Wajih, Maurizio
+Bleus gagnants: Christian_B, Julien V, Wajih, Maurizio
 6 à 7 pour les bleus 
 
 Session du Mercredi 13 Mai 2015  : 9 personnes
 Oranges : Michel, Maurizio, Sylvain_J, Dje
-Bleus gagnants: Benoit_P, Christian B,Christophe_L, Cynthia, Damien_F
+Bleus gagnants: Benoit_P, Christian_B,Christophe_L, Cynthia, Damien_F
 15 à 10 pour les bleus 
 
 Session du Lundi 11 Mai 2015  : 4 personnes
-Oranges gagnants: Christian B, Benoit_P
+Oranges gagnants: Christian_B, Benoit_P
 Bleus : Damien_F, Maurizio
 8 à 5 pour les oranges 
 
 Session du Mercredi 06 Mai 2015  : 14 personnes
-Oranges gagnants: Christian B, Julien V, Guillaume F, Dje, Cynthia, Nem, Maurizio
+Oranges gagnants: Christian_B, Julien V, Guillaume F, Dje, Cynthia, Nem, Maurizio
 Bleus : Benoit_P, Sylvain_J, Florent_P, Mike, Jullian, Marie, Damien_F
 7 à 4 pour les oranges 
 
 Session du Lundi 04 Mai 2015  : 5 personnes
 Oranges gagnants: Vianney, Julien V, Maurizio
-Bleus : Christian B, Benoit_P
+Bleus : Christian_B, Benoit_P
 8 à 6 pour les oranges 
 
 Session du mercredi 29 Avril 2015  :  15 personnes
@@ -2141,7 +2151,7 @@ rouge/orange : 5/9
 
 session du Lundi 13 Avril 2015  : 6 personnes
 Oranges gagnants: Benoit_P, Maurizio, Vianney
-Bleus : Christian B, Dje, Sylvain_J
+Bleus : Christian_B, Dje, Sylvain_J
 12 à 11 pour les oranges 
 
 session du mercredi  8 Avril 2015  :  15 personnes
@@ -2156,7 +2166,7 @@ Bleus : Guillaume F, Maurizio, Vincent B
 
 session du mercredi  1er Avril 2015  :  12 personnes
 jaunes gagnants: Julien V, Benoit_P, Florent_P, Sylvain_J, Jullian, Romaric
-bleus : Christian B, Damien_F, Nem, Marie, Cynthia, Norman
+bleus : Christian_B, Damien_F, Nem, Marie, Cynthia, Norman
 10 à 3 pour les jaunes
 
 session du mercredi  25 Mars 2015  :  5 personnes
@@ -2171,7 +2181,7 @@ bleus : Sylvain_J, Nico_HP, Adrien_HP, Benoit_P, Jonathan_F, Romaric, Julien V
 
 session du vendredi  13 Mars 2015  :  6 personnes
 orange : Damien_F, Maurizio, Wajih
-bleus gagnants: Michel,  Christian B, Guillaume F
+bleus gagnants: Michel,  Christian_B, Guillaume F
 9 à 4 pour les bleus
 
 session du mercredi 11 Mars 2015  :  10 personnes
@@ -2181,21 +2191,21 @@ bleus : Sylvain_J, Vianney, Nico_HP, Adrien_HP, Wajih
 
 session du vendredi  6 Mars 2015  :  7 personnes
 oranges gagnants: Sylvain_J, Vincent B, Damien_F
-bleus : Michel, Maurizio, Christian B, Dje
+bleus : Michel, Maurizio, Christian_B, Dje
 12 à 7 pour les oranges
 
 session du mercredi 25 Février 2015  :  11 personnes
-oranges gagnants: Maurizio, Christian B, Cynthia, Vianney, PL, Vincent B
+oranges gagnants: Maurizio, Christian_B, Cynthia, Vianney, PL, Vincent B
 bleus : Michel, Benoit_P, Damien_F, Sylvain_J, Julien V
 9 à 8 pour les oranges
 
 Session du vendredi 20 Février 2015  :  8 personnes
-Bleus gagnants: Vianney, Maurizio, Christian B, Dje
+Bleus gagnants: Vianney, Maurizio, Christian_B, Dje
 Oranges : Guillaume F, Benoit_P, Jonathan_F, Vincent B
 8 à 6 pour les Bleus
 
 Session du mercredi 18 Février 2015  :  12 personnes
-Bleus gagnants: Michel, Vianney, Nico_HP, Adrien_HP, Christian B, Sylvain_J
+Bleus gagnants: Michel, Vianney, Nico_HP, Adrien_HP, Christian_B, Sylvain_J
 Oranges : Guillaume F, Maurizio, Nem, Cynthia, Benoit_P, Vincent B
 10 à 6 pour les Bleus
 
@@ -2206,26 +2216,26 @@ Bleus : Vianney, Nico_HP, Adrien_HP, Dje
 
 Session du Vendredi 06 Février 2015  :  4 personnes
 Bleus : Wajih, Maurizio
-Gris gagnants: Christian B, Benoit_P
+Gris gagnants: Christian_B, Benoit_P
 7 à 4 pour les Gris
 
 Session du mercredi 30 Janvier 2015  :  6 personnes
-Bleus : Cynthia, Christian B, Nico_HP
+Bleus : Cynthia, Christian_B, Nico_HP
 Oranges gagnants: Vianney, Sylvain_J, Maurizio
 8 à 6 pour les Oranges
 
 Session du mercredi 23 Janvier 2015  :  6 personnes
 jaunes : Damien_F, Maurizio, Nem
-bleus gagnants: Cynthia, Christian B, Benoit_P
+bleus gagnants: Cynthia, Christian_B, Benoit_P
 9 à 5 pour les bleus 
 
 Session du mercredi 21 Janvier 2015  :  5 personnes
 oranges gagnants: Vianney, Maurizio, Nem
-bleus : Christian B, Benoit_P
+bleus : Christian_B, Benoit_P
 8 à 7 pour les oranges
 
 Session du mercredi 14 Janvier 2015  :  9 personnes
-oranges :  Christian B, Nico_HP, Damien_F, Nem
+oranges :  Christian_B, Nico_HP, Damien_F, Nem
 bleus gagnants: Maurizio, Wajih, Benoit_P, Adrien_HP, Sylvain_J
 9 à 5 pour les bleus
 
@@ -2240,7 +2250,7 @@ bleus gagnants: Maurizio, Guillaume F, Benoit_P, Cynthia, Romaric
 5 à 4 pour les bleus
 
 Session du Lundi 05 Janvier 2015 : 6 personnes
-bleus : Christian B, Dje, Maurizio
+bleus : Christian_B, Dje, Maurizio
 oranges gagnants:  Vianney, Damien_F, Christophe_
 6 à 5 pour les oranges
 
@@ -2255,12 +2265,12 @@ bleus gagnants: Vianney, Benoit_P, Maurizio
 7 à 5 pour les bleus
 
 Session du Lundi 15 Décembre 2014 : 6 personnes
-Rouges gagnants: Dje, Christian B, Vianney, Guillaume F
+Rouges gagnants: Dje, Christian_B, Vianney, Guillaume F
 Jaunes : Benoit_P, Damien_F, Cynthia, Maurizio
 12 à 7 pour les rouges 
 
 session du vendredi 12 Décembre 2014 : 6 personnes
-oranges gagnants: Benoit_P, Christian B, Maurizio
+oranges gagnants: Benoit_P, Christian_B, Maurizio
 bleus : Nico_HP, Vincent B, Guillaume F
 8 à 3 pour les oranges
 
@@ -2270,7 +2280,7 @@ bleus gagnants: Damien_F, Vianney, Dje, Benoit_P, Vincent B, Simon, Maurizio
 12 à 5 pour les bleus
 
 Session du Lundi 8 Décembre 2014 : 6 personnes
-Rouges gagnants: Benoit_P, Christian B, Vincent B
+Rouges gagnants: Benoit_P, Christian_B, Vincent B
 Jaunes : Damien_F, Vianney, Maurizio
 8 à 7 pour les rouges 
 
@@ -2285,24 +2295,24 @@ Jaunes : Damien_F, Jonathan_F, Maurizio
 10 à 8 pour les rouges 
 
 session du Mercredi 26 Novembre 2014  :  6 personnes
-Rouges gagnants: Christian B, Vianney, Guillaume F
+Rouges gagnants: Christian_B, Vianney, Guillaume F
 Jaunes : Damien_F, Maurizio, Nem
 9 à 5 pour les rouges 
 
 session du lundi 24 Novembre 2014  :  7 personnes
 Rouges : Benoit_P, Cynthia,  Julien V, Michel
-Jaunes gagnants: Christian B, Maurizio, Vianney
+Jaunes gagnants: Christian_B, Maurizio, Vianney
 11 à 9 pour les  jaunes
 
 
 session du vendredi 21 Novembre 2014  :  9 personnes
-Bleus gagnants: Christian B, Damien_F, Wajih, Maurizio
+Bleus gagnants: Christian_B, Damien_F, Wajih, Maurizio
 Oranges : Benoit_P, Renaud, Nem, Julien V, Cynthia
 13 à 10 pour les bleus
 
 session du mercredi 19 Novembre 2014  :  12 personnes
 oranges gagnants:  Benoit_P, Guillaume F, Michel, Maurizio, Dje, Nem
-bleus : Christian B, Damien_F, Julien V, Vianney, Christophe_, Cynthia
+bleus : Christian_B, Damien_F, Julien V, Vianney, Christophe_, Cynthia
 11 à 4 pour les oranges
 
 Session du Vendredi 14 Novembre 2014  :  9 personnes
@@ -2311,23 +2321,23 @@ Oranges gagnants: Benoit_P, Cynthia, Marie, Nem, Maurizio
 6 à 5 pour les Oranges
 
 Session du Mercredi 12 Novembre 2014  :  9 personnes
-Bleus : Christian B, Damien_F, Julien V, Guillaume F
+Bleus : Christian_B, Damien_F, Julien V, Guillaume F
 Oranges gagnants: Benoit_P, Sylvain_J, Wajih, Nem, Maurizio
 8 à 7 pour les Oranges
 
 Session du Lundi 10 Novembre 2014  :  5 personnes
-Bleus : Christian B, Vianney
+Bleus : Christian_B, Vianney
 Blancs gagnants: Benoit_P, Cynthia, Maurizio
 12 à 7 pour les blancs
 
 Session du Vendredi 07 Novembre 2014  :  8 personnes
-Bleus gagnants: Christian B, Damien_F, Sylvain_J, Wajih
+Bleus gagnants: Christian_B, Damien_F, Sylvain_J, Wajih
 Oranges: Benoit_P, Guillaume F, Cynthia, Maurizio
 9 à 7 pour les Bleus
 
 session du Lundi 03 Novembre 2014  :  5 personnes
 Rouges gagnants: Benoit_P, Cynthia, Maurizio
-Jaunes: Damien_F, Christian B
+Jaunes: Damien_F, Christian_B
 6 à 4 pour les Rouges
 
 session du Mercredi 29 Octobre 2014  :  10 personnes
@@ -2341,7 +2351,7 @@ Jaunes: Julien V, Guillaume F, Sylvain_J
 8 à 7 pour les Rouges
 
 Session du Lundi 20 Octobre 2014 : 5 personnes
-Entrainement, participants :  Benoit_P, Vianney, Christian B, Damien_F, Maurizio
+Entrainement, participants :  Benoit_P, Vianney, Christian_B, Damien_F, Maurizio
 
 Session du Vendredi 17 Octobre 2014  :  4 personnes
 Entrainement et petit match à la fin
@@ -2351,27 +2361,27 @@ Blues: Benoit_P, Laure M (c’est tordu la cheville à la fin du match)
 
 Session du Lundi 15 Octobre 2014  :  12 personnes
 oranges gagnants: Dje, Benoit_P, Nem, Julien V, Guillaume, Michel
-Bleus : Vianney, Christian B, Damien_F, Maurizio, Chris L, Renaud
+Bleus : Vianney, Christian_B, Damien_F, Maurizio, Chris L, Renaud
 9 à 5 pour les oranges
 
 Session du Vendredi 10 Octobre 2014  :  8 personnes
 Jaunes gagnants:  Cynthia, Benoit_P, Damien_F, Maurizio
-Rouges: Christian B, Renaud, Guillaume F, Michel
+Rouges: Christian_B, Renaud, Guillaume F, Michel
 10 à 9 pour les Jaunes
 
 session du Mercredi 8 Octobre 2014  :  8 personnes
 oranges: Laure M, Benoit_P, Vianney, Maurizio
-Bleus gagnants: Dje, Christian B, Damien_F, Vincent B
+Bleus gagnants: Dje, Christian_B, Damien_F, Vincent B
 6 à 5 pour les Bleus 
 
 session du Lundi 6  Octobre 2014  :  4 personnes
 Bleus: Benoit_P, Maurizio
-Blancs gagnants: Damien_F, Christian B
+Blancs gagnants: Damien_F, Christian_B
 7 à 3 pour les Blancs
 
 session du Vendredi 3 Octobre 2014  :  5 personnes
 Blancs: Benoit_P, Renaud, Maurizio
-Bleus gagnants: Damien_F, Christian B
+Bleus gagnants: Damien_F, Christian_B
 16 à 5 pour les Bleus 
 
 session du Mercredi 1 Octobre 2014  :  9 personnes
@@ -2381,7 +2391,7 @@ Bleus gagnants: Dje, Guillaume F, Sylvain_J, Fred, Jérôme_HP
 
 session du Lundi 29 Septembre 2014  :  6 personnes
 Oranges gagnants: Benoit_P, Laure M, Guillaume F, Maurizio
-Bleus : Damien_F, Christian B, Renaud, Dje
+Bleus : Damien_F, Christian_B, Renaud, Dje
 10 à 9 pour les Oranges  
 
 
@@ -2392,16 +2402,16 @@ Orange : Maurizio, Benoit_P, Laure M, Renaud
 
 session du mercredi 24 Septembre 2014  :  5 personnes
 Rouges gagnants: Wajih, Damien_F, Maurizio
-Jaunes : Benoit_P, Christian B
+Jaunes : Benoit_P, Christian_B
 9 à 8 pour les rouges
 
 session du Lundi 22 Septembre 2014  :  6 personnes
 Oranges gagnants: Benoit_P  , Renaud, PL
-Bleus : Laure M  , Christian B, Maurizio
+Bleus : Laure M  , Christian_B, Maurizio
 8 à 7 pour les Oranges  
 
 session du vendredi 19 Septembre 2014  :  9 personnes
-Bleus : Coline, Brice, Christian B, Damien_F
+Bleus : Coline, Brice, Christian_B, Damien_F
 Orange gagnants: Guillaume F, Wajih, Benoit_P, Julien V, Maurizio
 8 à 7 pour les oranges
 
@@ -2412,7 +2422,7 @@ Orange gagnants: Renaud, Damien_F, Romaric, Mike
 
 session du lundi 15 Septembre 2014  :  8 personnes
 Bleus gagnants: Julien V, Damien_F, Vianney, Maurizio
-Orange : Christian B, Benoit_P, Dje, Totof
+Orange : Christian_B, Benoit_P, Dje, Totof
 14 à 7 pour les bleus
 
 session du vendredi 12 Septembre 2014  :  8 personnes
@@ -2432,15 +2442,15 @@ Rouge: Benoit_P, Guillaume F, Michel, Nico_HP, Loïc X, Jérôme_HP, Laure M (0-
 à 5-0, Mike et Laure M ont changé d'équipe (Laure M Rouge est devenue Laure M Jaune)
 
 session du mercredi  27 Aout 2014  :  10 personnes
-Conrad, Damien_F, Cynthia, Jonathan_F, Dje, Loïc X, Benoit_P, Wajih, Sylvain, Christian B, Laure M, Mike, Zee
+Conrad, Damien_F, Cynthia, Jonathan_F, Dje, Loïc X, Benoit_P, Wajih, Sylvain, Christian_B, Laure M, Mike, Zee
 
 session du lundi  25 Aout 2014  :  10 personnes
-Bleus : Christian B, Benoit_P, Michel, Maurizio, Cynthia
+Bleus : Christian_B, Benoit_P, Michel, Maurizio, Cynthia
 Orange gagnants: Nico_HP, Loïc X, Jérôme_HP, Dje, Conrad
 9 à 6  pour les oranges
 
 session du mercredi  20 Aout 2014  :  15 personnes
-Bleus gagnants: Conrad, Damien_F, Laure M, Dje, Christian B, Wajih, Cynthia, Maurizio
+Bleus gagnants: Conrad, Damien_F, Laure M, Dje, Christian_B, Wajih, Cynthia, Maurizio
 Orange : Mike, Fred, Loïc X, Nico_HP, Lio, Maele, Jérôme_HP
 8 à 7  pour les bleus
 
@@ -2450,7 +2460,7 @@ Orange gagnants: Conrad, Damie, Maurizio
 7 à 5 pour les oranges
 
 session du mercredi  30 Juillet 2014  :  14 personnes
-Bleus gagnants: Christian B, Benoit_P, Nicolas X, Adrien, Conrad, Cynthia, Jonathan_F
+Bleus gagnants: Christian_B, Benoit_P, Nicolas X, Adrien, Conrad, Cynthia, Jonathan_F
 Orange : Loïc X, Nico_HP, Nem, Guillaume F, Marie, Mike, Laure M
 10 à 6  pour les bleus, terrain glissant et humide.
 
@@ -2491,7 +2501,7 @@ Orange gagnants: Nicolas X (Nico2), Benoit_P, Laure M, Maurizio
 11 à 5 pour les oranges
 
 session du mercredi 2 Juillet 2014  :  11 personnes
-Bleus : Christian B, Benoit_P, Laure M, Nem, Nicolas X
+Bleus : Christian_B, Benoit_P, Laure M, Nem, Nicolas X
 Orange gagnants: Damien_F, Michel, Conrad, Juliette, Philippe R., Dje
 8 à 7 pour les oranges
 Humide sans pluie, pas de vent, un peu de soleil.
@@ -2509,7 +2519,7 @@ Orange gagnants: Maurizio, Nem, Fred, Vincent B, Marie, Adrien
 Couvert puis soleil, temps lourd, vent du nord sur la fin.
 
 session du mercredi 18 Juin 2014  :  12 personnes
-Rouges : Fred, Christian B,, Michel, Marie, Adrien, Guillaume F
+Rouges : Fred, Christian_B,, Michel, Marie, Adrien, Guillaume F
 Jaunes gagnants: Damien_F, Clément X, Benoit_P, Maurizio, Nicolas C., Mike
 10 à 8 pour les jaunes
 Belle éclaicie après la nébulosité matinale et avant les orages de l'aprem. Pas trop chaud, pas de vent
@@ -2541,19 +2551,19 @@ Jaunes : Damien_F, Dje, Stéphane
 Frais et un peu venteux (Nord). Peu de soleil pendant le match. Nombreux  nuages.
 
 session du mercredi 14 Mai 2014  :  11 personnes
-Rouges gagnants: Maurizio, Sylvain_J, Michel, Christian B, Mike, PL
+Rouges gagnants: Maurizio, Sylvain_J, Michel, Christian_B, Mike, PL
 Jaunes : Cynthia, Damien_F, Fred, Nico_HP, Wajih
 8 à 4
 Frais et un peu venteux (Nord). Pas de soleil pendant le match. Nombreux  nuages.
 
 session du mercredi 30 Avril 2014  :  10 personnes
-Rouges gagnants: Conrad, Christian B, Zovastra, Fred le retour, Nico_HP
+Rouges gagnants: Conrad, Christian_B, Zovastra, Fred le retour, Nico_HP
 Jaunes gagnants: Michel, Guillaume F, Sylvain_J, Mike, Benoit_P
 6 à 6 match nul
 Malgré un début de journée pluvieux, le soleil s'est imposé pendant le match. Pas trop frais, du soleil, pas de pluie et un léger vent de Nord habituel.
 
 session du mercredi 23 Avril 2014  :  15 personnes
-Rouges gagnants: Maurizio, Christian B, Yoann, Adrien, Benjamin, Cynthia, Guillaume F
+Rouges gagnants: Maurizio, Christian_B, Yoann, Adrien, Benjamin, Cynthia, Guillaume F
 Jaunes gagnants: Michel, Raphaël, Laure M, Romaric, Benoit_P, Thomas, Nico_HP, Sylvain_J
 8 à 8 match nul
 Soleil.
@@ -2585,43 +2595,43 @@ Jaunes : Cynthia, Conrad, Sylvain_J, Alian A, Yohann, Hervé C.
 Soleil, tout simplement.
 
 session du mercredi  5 Mars 2014  :  10 personnes
-Rouges : Christian B, Clément X, Guillaume F, Dje, Brice
+Rouges : Christian_B, Clément X, Guillaume F, Dje, Brice
 Jaunes gagnants: Michel, Maurizio, Fabien, Nico_HP, Benoit_P
 8 à 7 pour les jaunes
 Nuages et soleil, peu de vent, frais.
 
 session du mercredi  19 Février 2014  :  12 personnes
-Rouges gagnants: Christian B, Sylvain_J, Damien_F, Cynthia, Maurizio, Aïmen
+Rouges gagnants: Christian_B, Sylvain_J, Damien_F, Cynthia, Maurizio, Aïmen
 Jaunes : Conrad, Michel, Guillaume F, Wajih, Adrien, Mike
 Rouge : 11 à 9 (Cynthia  6 points, 3 buts)
 Gris, vent fnord frais
 
 session du mercredi  22  Janvier 2014  :  8 personnes
-rouge : Michel, Christian B, Damien_F, Sylvain_J
+rouge : Michel, Christian_B, Damien_F, Sylvain_J
 Jaunes gagnants: Maurizio, Aïmen, Mike, Benoit_P
 Rouge : 10, jaune : 11
 Gris, froid, humide
 
 session du vendredi  24  Janvier 2014  :  9 personnes
 rouge : Sylvain_J, Guillaume F, Laure M, Benoit_P
-Jaunes gagnants: Maurizio, Conrad, Christian B, Damien_F, Maëva
+Jaunes gagnants: Maurizio, Conrad, Christian_B, Damien_F, Maëva
 Rouge : 7, jaune : 9
 gris, frais, vent du nord
 
 session du mercredi  22  Janvier 2014  :  11 personnes
-rouge : Michel, Christian B, Sylvain C, Damien_F, Sylvain_J
+rouge : Michel, Christian_B, Sylvain C, Damien_F, Sylvain_J
 Jaunes gagnants: Maurizio, Conrad, Guillaume F, Laure M, Benoit_P, Mike
 Rouge : 6, jaune : 10
 soleil, peu de nuages, frais
 
 session du mercredi  15  Janvier 2014  :  11 personnes
-rouge gagnants: Michel, Nico_HP, Christian B, Benoit_P, Mike
+rouge gagnants: Michel, Nico_HP, Christian_B, Benoit_P, Mike
 Jaunes : Maurizio, Conrad, Damien_F, Aïmen, Dje, Jérôme_HP.
 Rouge : 13, jaune : 6
 soleil, peu de nuages, frais
 
 session du mercredi  8 Janvier 2014  :  15 personnes
-rouge : Michel, Jérôme_HP, Nico_HP, Mike, Christian B,  Djè, Raphaël, Christophe_
+rouge : Michel, Jérôme_HP, Nico_HP, Mike, Christian_B,  Djè, Raphaël, Christophe_
 Jaunes gagnants: Maurizio, Benoit_P, Conrad, Damien, Romaric, Jonathan_F, Aïmen
 jaunes : 18 ; rouge : 8
 soleil, peu de nuages, doux
@@ -2634,8 +2644,8 @@ jaunes : 4 ; rouge : 9
 
 session du vendredi  13 Décembre 2013  :  6 personnes
 très beau temps, froid.
-6 personnes seulement : Laure M, Maurizio, Christian B, Benoit_P, Damien_F et Michel.
-rouge : Christian B (blessé) Benoit_P et Michel
+6 personnes seulement : Laure M, Maurizio, Christian_B, Benoit_P, Damien_F et Michel.
+rouge : Christian_B (blessé) Benoit_P et Michel
 Jaunes gagnants: Maurizio, Damien_F et Laure M
 les jaunes l'emportent 6 à 4.
 
@@ -2646,20 +2656,20 @@ Raphaël, Maurizio, Benoit_P, Conrad, Cynthia, Romaric, Yohann, Guillaume F, Dam
 Soleil , frais, terrain gelé.
 
 session du mercredi 4 Décembre 2013  :  9 personnes
-Rouge gagnants: Maurizio, Christian B, Nico_HP, Sylvain_J
+Rouge gagnants: Maurizio, Christian_B, Nico_HP, Sylvain_J
 Jaune : Michel, Romaric, Benoit_P, Conrad
 Les rouges gagnent 11 à 10
 Soleil , frais, terrain gelé.
 
 session du mercredi 27  Novembre 2013  :  16 personnes
-Rouge gagnants: Adrien, Michel, Yoann, Benoit_P, Christian B, Thomas, Cynthia, Damien_F
+Rouge gagnants: Adrien, Michel, Yoann, Benoit_P, Christian_B, Thomas, Cynthia, Damien_F
 Jaune : Maurizio, Sylvain_J, Guillaume F, Nico_HP, Mike, Laure M, Romaric, Conrad
 Les rouges gagnent 9 à 8
 Soleil et nuages, frais, terrain gras.
 
 session du mercredi 20  Novembre 2013  :  8 personnes
 Rouge : Adrien, Michel,Sylvain_J, Yoann
-Jaune gagnants: Christian B, Maurizio, Cynthia, Conrad
+Jaune gagnants: Christian_B, Maurizio, Cynthia, Conrad
 Les jaunes gagnent 10 à 7
 Flux froid de Nord, temps humide, terrain gras.
 
@@ -2675,7 +2685,7 @@ Les rouges gagnent 11 à 10
 Soleil et nuages, douceur et pas de vent
 
 session du vendredi 119  Octobre 2013  :  9 personnes
-Rouge : Christian B, Maurizio, Sylvain_J, Nico_HP
+Rouge : Christian_B, Maurizio, Sylvain_J, Nico_HP
 Jaune gagnants: Fred, Michel, Jérôme_HP, Benoit_P, Guillaume F
 Les jaunes gagnent 7 à 6
 Soleil et nuages, fraicheur et un peu de vent
@@ -2687,20 +2697,20 @@ Les rouges gagnent 11 à 6
 Gris, un peu de vent
 
 session du vendredi 4 Octobre 2013  :  10 personnes
-Rouge : Christian B, Damien_F, Nico_HP, Fred, Jérôme_HP
+Rouge : Christian_B, Damien_F, Nico_HP, Fred, Jérôme_HP
 Jaune gagnants: Michel, David, Conrad, Maurizio, Benoit_P
 Les jaunes  gagnent 8 à 7
 Gris, lourd, sans vent
 
 session du mercredi 2 Octobre 2013  :  16 personnes
 Rouge gagnants: Cynthia, Guillaume F, Conrad, Michel, Maurizio, Fred, Nico_HP,Sylvain_J
-Jaune : Christian B, Benoit_P, Julien, Damien_F, Laure M, Sylvain C, Mike, Florent_C
+Jaune : Christian_B, Benoit_P, Julien, Damien_F, Laure M, Sylvain C, Mike, Florent_C
 Les rouges gagnent 17 à 9 (les filles comptent double)
 Beau temps doux sans vent
 
 session du mercredi 18 Septembre 2013  :  14 personnes
 Rouge gagnants: Adrien, Michel, Maurizio, Conrad, Hervé, Sylvain C, Guillaume F
-Jaune gagnants: Nico_HP, Fred, Jérôme_HP, Christian B, Cynthia, Damien_F, Thomas
+Jaune gagnants: Nico_HP, Fred, Jérôme_HP, Christian_B, Cynthia, Damien_F, Thomas
 Egalité 7 partout match nul mais 7 buts des rouges 5 des jaunes (car Cynthia = 2x2)
 Pluie fine dite "crachin breton"
 
@@ -2731,32 +2741,32 @@ chaud et ensoleillé !
 Mercredi 17 Juillet 2013:   Quatre équipes, quatre matches, 19 personnes
 
 session du lundi 15 Juillet 2013  :  10 personnes
-Rouges  gagnants: Carole, Christian B, Maurizio, Yohann, Guillaume F
+Rouges  gagnants: Carole, Christian_B, Maurizio, Yohann, Guillaume F
 Jaunes : Conrad, Damien_F, Mahamadou, Michel, Maxime_1
 les rouges gagnent 8 à 4 ; 6 points de Carole !
 Chaud, soleil, un peu lourd
 
 session du vendredi 12  Juillet 2013  :  9 personnes
-Rouges  gagnants: Christian B, Benoit_P (chercher l'erreur), Adrien, Jérôme H.
+Rouges  gagnants: Christian_B, Benoit_P (chercher l'erreur), Adrien, Jérôme H.
 Jaunes : Michel, Fred, Maurizio, Yoann, Thomas
 les rouges gagnent 11 à 9
 chaud et ensoleillé !
 
 session du mercredi 10  Juillet 2013  :  11 personnes
 Rouges  gagnants: Thomas, Sylvain_J, Cynthia, Maurizio, Yoann, Julien L, Brice
-Jaunes : Benoit_P, Michel, Conrad, Christian B, Adrien, Guillaume F
+Jaunes : Benoit_P, Michel, Conrad, Christian_B, Adrien, Guillaume F
 les rouges gagnent 8 à 7 ; 4 points de Cynthia !
 temps lourd avec nuages et soleil.
 
 
 session du vendredi 5 Juillet 2013  :  11 personnes
-Rouges  : Thomas, Adrien, Christian B, Jérôme H, Brice
+Rouges  : Thomas, Adrien, Christian_B, Jérôme H, Brice
 Jaunes gagnants: Benoit_P, Michel, Mahamadou, Damien_F, Conrad, PL
 les jaunes gagnent 8 à 7
 temps chaud soleil.
 
 session du mercredi 3 Juillet 2013  :  11 personnes
-Rouges  : Guillaume S, Jonathan_F, Nelson, Christian B, Carole, Maxime_1
+Rouges  : Guillaume S, Jonathan_F, Nelson, Christian_B, Carole, Maxime_1
 Jaunes gagnants: Benoit_P, Michel, Damien_F, Mahamadou, Conrad
 les jaunes gagnent 13 à 3
 temps lourd avec nuages et soleil.
@@ -2767,7 +2777,7 @@ Jaunes gagnants: Benoit_P, Guillaume F, Nico_HP, Wajih
 les jaunes gagnent 8 à 7
 
 session du mercredi 19 Juin 2013  :  16 personnes
-Rouges  : Maurizio, Christian B, Cynthia, Clément X, Sylvain C, Conrad, Thibaut, Thomas
+Rouges  : Maurizio, Christian_B, Cynthia, Clément X, Sylvain C, Conrad, Thibaut, Thomas
 Jaunes gagnants: Benoit_P, Michel, Jérôme H, David, Mahamadou, Guillaume F, Adrien, Jonathan_F
 les jaunes gagnent 9 à 8 (1 but de Cynthia qui vaut deux point pour les rouges)
 Couvert, pas trop chaud, un peu de vent
@@ -2796,13 +2806,13 @@ soleil, douceur pas de vent.
 
 session du mercredi 29 Mai 2013  :  12  personnes
 Rouges  gagnants: Maurizio, Damien_F, Guillaume S, Conrad, Carole, Yohann, 
-Jaunes :  Christian B, Michel, Guillaume F, Thibaud, Vincent-RH, Clément X
+Jaunes :  Christian_B, Michel, Guillaume F, Thibaud, Vincent-RH, Clément X
 les rouges l'emportent 13 à 10 (Carole marque 4 buts pour 8 points)
 Gris, frais, un peu de vent sur la fin
 
 session du mercredi 22 Mai 2013  :  16  personnes
 Rouges  : Maurizio, Cynthia, Benoit_P, Clément X, Guillaume F, Mahamadou, Nelson, Adrien
-Jaunes gagnants: Christian B, Michel, Carole, Conrad, Vincent B, Thomas, Yohann, Guillaume S
+Jaunes gagnants: Christian_B, Michel, Carole, Conrad, Vincent B, Thomas, Yohann, Guillaume S
 les jaunes l'emportent 6 à 5
 Gris, vent soutenu, pas de pluie.
 
@@ -2814,7 +2824,7 @@ Soleil et nuages,  terrain pas coupé et humide
 
 session du mercredi 15 Mai 2013  :  15  personnes
 Rouges  : Maurizio, Cynthia, Benoit_P, Damien_F, Clément X, Sylvain_J, Yohann
-Jaunes gagnants: Mahamadou, Christian B, Conrad, Guillaume F, Michel, Mike, Arnaud, Simon
+Jaunes gagnants: Mahamadou, Christian_B, Conrad, Guillaume F, Michel, Mike, Arnaud, Simon
 les jaunes l'emportent 8 à 6
 Gris, peu de vent du sud, pas de pluie.
 
@@ -2832,41 +2842,41 @@ les jaunes jouent à trois : un joueur en touche change à chaque point
 Pluie, fraicheur, du vent par moment, terrain glissant
 
 session du mercredi 17  Avril 2013  :  23  personnes
-Guillaume S, Christian B, Michel,  Simon, Carole
+Guillaume S, Christian_B, Michel,  Simon, Carole
 Brice, Mahamadou, Yohann, Benoit_P, Thibaut, Guillaume F, Nelson, Damien_F, Séverine, Sylvain_J, David i7
 Fred, Xavier, Nico_HP,  Jérôme_HP, Mike
 Maurizio, Jérôme H.
 Beau temps chaud, sans vent ; quatre équipes , 3 de 6 et une de 5. les rouges (HP)  perdent tout leur matches, les deux autres équipes en gagnent 2 sur 3.
 
 session du vendredi  12 Avril 2013  :  9  personnes
-Rouges  : Christian B, Jérôme_HP, Simon D, Nico_HP
+Rouges  : Christian_B, Jérôme_HP, Simon D, Nico_HP
 Jaunes gagnants: Maurizio, Michel, Damien_F, Fred, Mahamadou
 premier match (équipe ci-dessus) : 6 à 3 pour les jaunes
-second match : Christian B blessé sort, Damien_F le remplace chez les rouges : 2 à 1 pour les jaunes
+second match : Christian_B blessé sort, Damien_F le remplace chez les rouges : 2 à 1 pour les jaunes
 Soleil, pas de vent, très doux.
 
 session du mercredi 10  Avril 2013  :  15  personnes
-Jaunes gagnants: Mahamadou, Christian B, Benoit_P, Michel, Fred, Nico_HP, Guillaume F, PL
+Jaunes gagnants: Mahamadou, Christian_B, Benoit_P, Michel, Fred, Nico_HP, Guillaume F, PL
 Rouges : Brice, Simon, Nelson, Yohann, Sylvain_J, Sylvain C, Damien_F
 12 à 8 pour les jaunes
 Terrain souple, soleil, peu de vent, doux.
 
 session du vendredi  5 Avril 2013  :  9  personnes
 Rouges  gagnants: Fred, Nico_HP, Damien_F, Benoit_P
-Jaunes :  Christian B, Maurizio, Michel, Guillaume F, Thibaut
+Jaunes :  Christian_B, Maurizio, Michel, Guillaume F, Thibaut
 11 à 10 pour les rouges
 temps gris, doux, pas de vent ; terrain souple
 
 session du mercredi 3  Avril 2013  :  19  personnes
-Jaunes gagnants: Maurizio,Simon D, Guillaume F, Guillaume S, Christian B, Benoit_P, Jonathan_F, Jérôme H, PL, Sylvain_J
+Jaunes gagnants: Maurizio,Simon D, Guillaume F, Guillaume S, Christian_B, Benoit_P, Jonathan_F, Jérôme H, PL, Sylvain_J
 Rouges : Mike, Nico_HP, Fred, Michel, Yohann, Nelson, Damien_F, Matthieu, Carole
 9 à 5 pour les jaunes
 Terrain souple, soleil, peu de vent, doux.
 
 session du vendredi  29  Mars 2013  :  9  personnes
-Rouges  :  Romaric, Vincent B, Michel, Damien_F  et Christian B
-Jaunes gagnants: Nico_HP, Maurizio, Guillaume S, Jérôme_HP blessé remplacé par Christian B
-Les rouges mènent largement jusqu'au remplacement de Jérôme_HP par Christian B. Là, les Jaunes  rattrapent puis dominent.
+Rouges  :  Romaric, Vincent B, Michel, Damien_F  et Christian_B
+Jaunes gagnants: Nico_HP, Maurizio, Guillaume S, Jérôme_HP blessé remplacé par Christian_B
+Les rouges mènent largement jusqu'au remplacement de Jérôme_HP par Christian_B. Là, les Jaunes  rattrapent puis dominent.
 Terrain très boueux (flaques au milieu), peu puis plus de pluie, gris, frais mais pas froid.
 
 session du mercredi  27  Mars 2013  :  18  personnes
@@ -2882,7 +2892,7 @@ Terrain souple, soleil, légère brise en fin de partie, doux.
 
 session du mercredi 20  Mars 2013  :  9  personnes
 Jaunes : Maurizio, Nico_HP, Fred, Michel, Simon D
-Rouges gagnants: Guillaume F, Benoit_P, Sylvain_J, Christian B
+Rouges gagnants: Guillaume F, Benoit_P, Sylvain_J, Christian_B
 8 à 7 pour les rouges  
 Terrain souple, nuages et soleil, pas de vent, doux.
 
@@ -2894,12 +2904,12 @@ Terrain sec, souple, temps gris, vent du nord, froid.
 
 session du vendredi 8  Mars 2013  :  7  personnes
 Jaunes gagnants: Fred, Damien_F, Maurizio
-Rouges : Guillaume F, Michel, Christian B, Simon D
+Rouges : Guillaume F, Michel, Christian_B, Simon D
 9 à 8   pour les  jaunes
 pluie légère, ciel gris, doux, pas de vent
 
 session du mercredi 6 Mars 2013  :  13  personnes
-Jaunes gagnants: Christian B, Maurizio, Sylvain_J, Carole, Damien_F, Yohann
+Jaunes gagnants: Christian_B, Maurizio, Sylvain_J, Carole, Damien_F, Yohann
 Rouges : Guillaume F, Michel, Conrad, Fred, Simon D, Cynthia, Jonathan_F
 10 à 14    pour les  jaunes, Carole compte 2 points (3 buts marqués)
 Terrain sec, gris mais lumineux, pas de vent, pas de pluie.
@@ -2911,7 +2921,7 @@ Rouges :Carole, Vincent C, Conrad, Sylvain_J, Yohann, Mike, Guillaume F;
 Soleil, pas de vent, froid, terrain boueux et glissant
 
 session du mercredi 20  Février 2013  :  13  personnes
-Jaunes : Maurizio, Damien_F, Cynthia, Sylvain C, Nico_HP, Guillaume S, Christian B
+Jaunes : Maurizio, Damien_F, Cynthia, Sylvain C, Nico_HP, Guillaume S, Christian_B
 Rouges gagnants: Benoit_P, Conrad, Guillaume F, Michel, Fred, Thibaud
 7 à 6   pour les  rouges
 soleil, pas de vent, un peu frais, terrain dégelé, gras et glissssssant....
@@ -2923,13 +2933,13 @@ Rouges : Nico_HP, Michel, Conrad
 nuages, un peu de soleil, pas de vent, terrain enneigé fondante, très glissant et boeux dessous.
 
 session du mercredi 13  Février 2013  :  7  personnes
-Jaunes gagnants: Christian B, Maurizio, Damien_F, Michel
+Jaunes gagnants: Christian_B, Maurizio, Damien_F, Michel
 Rouges : Benoit_P, Conrad, Guillaume F.
 7 à 2   pour les  jaunes
 neige crouteuse (7cm), vent du Nord froid, temps gris, boue glissante sous la neige au milieu.
 
 session du vendredi  8  Février 2013  : 7  personnes
-Jaunes gagnants: Christian B, Nico_HP, Michel
+Jaunes gagnants: Christian_B, Nico_HP, Michel
 Rouges : Fred, Maurizio, Benoit_P, Guillaume F.
 7 à 6  pour les jaunes
 soleil, qqs nuages, frais, pas de vent,  terrain très boueux, très glissant.
@@ -2941,19 +2951,19 @@ Rouges gagnants: Michel, Nico_HP, Damien_F.
 neige, jeu sur terrain stabilisé
 
 session du vendredi  1er Février 2013  : 8  personnes
-Jaunes gagnants: Christian B, Maurizio, Nico_HP, Mike
+Jaunes gagnants: Christian_B, Maurizio, Nico_HP, Mike
 Rouges : Vincent P, Michel, Conrad, Brice
 15 à 3  pour les jaunes
 gris, frais, pas de vent, pas de pluie, terrain très boueux
 
 session du mercredi  30  Janvier 2013  : 13  personnes
 Jaunes : Maurizio, Guillaume F, Julien L, Carole, Mike, Maxime_1
-Rouges gagnants: Conrad, Michel, Christian B, Mathis, Nico_HP, Thibaud, Guillaume S.
+Rouges gagnants: Conrad, Michel, Christian_B, Mathis, Nico_HP, Thibaud, Guillaume S.
 9 à 8  pour les rouges
 Soleil et nuages, pas de vent, plutôt doux, terrain  gras.
 
 session du mercredi  23  Janvier 2013  : 5  personnes
-Jaunes gagnants: Benoit_P, Christian B
+Jaunes gagnants: Benoit_P, Christian_B
 Rouges : Maurizio, Conrad, Michel
 10 à 8  pour les jaunes
 Terrain gras, temps gris et froid.
@@ -2966,7 +2976,7 @@ soleil, froid, pas de vent. Terrain neigeux et glacé.
 
 session du mercredi  16  Janvier 2013  : 9  personnes
 Jaunes gagnants: Damien_F, Nico_HP, Michel, Benoit_P
-Rouges : Maurizio, Guillaume F, Christian B, Conrad, Yohann
+Rouges : Maurizio, Guillaume F, Christian_B, Conrad, Yohann
 6 à 5  pour les jaunes
 neige au sol (5cm) mais terrain mou, soleil, froid.
 
@@ -2978,19 +2988,19 @@ gris, froid, sans vent
 
 session du vendredi  4 Janvier 2013  : 12  personnes
 Jaunes : Maurizio, Conrad, Guillaume F, Michel, Nico_HP, Cynthia
-Rouges gagnants: Brice, Christian B, Thibaut, Vincent C, Wajih, Carole
+Rouges gagnants: Brice, Christian_B, Thibaut, Vincent C, Wajih, Carole
 10 à 6 pour les rouges
 soleil, frais, pas de vent
 
 session du mercredi  2 Janvier 2013  : 8  personnes
 Jaunes : Maurizio, Fred, Adrien, Mike
-Rouges gagnants: Conrad, Christian B, Nico_HP, Brice
+Rouges gagnants: Conrad, Christian_B, Nico_HP, Brice
 11 à 4 pour les rouges
 soleil, frais
 
 session du vendredi 21  Décembre 2012 : 10  personnes
 Jaunes : Fred, Benoit_P, Brice, Marien, Thibaut
-Rouges gagnants: Nico_HP, Christian B, Conrad, Jonathan_F, Michel
+Rouges gagnants: Nico_HP, Christian_B, Conrad, Jonathan_F, Michel
 14 à 7 pour les rouges
 gris, frais, pas de vent, terrain très gras.
 
@@ -3072,7 +3082,7 @@ Quelques gouttes, gris pas de vent, lourd, doux.
 
 session du mercredi  24 Octobre 2012 : 18 personnes
 jaunes :Benoit_P, Thibaud, Damien_F, Conrad
-rouges gagnants: Christian B, Sylvain C, Maurizio, Guillaume S.
+rouges gagnants: Christian_B, Sylvain C, Maurizio, Guillaume S.
 verts gagnants: Fred, Séverine, Michel, Sylvain_J, Mike
 bleus : Brice, Guillaume F, Nico_HP, Carole, Vincent P
 Soleil après grisaille, pas de vent, ROMs en tentes sur le bord du terrain
@@ -3097,13 +3107,13 @@ Gris et soleil mais pluie, doux (lourd) terrain mouillé.
 
 session du vendredi  5 Octobre 2012 : 8 personnes
 Jaunes gagnants: Benoit_P, Conrad, Damien_F, Maurizio
-Rouges : Christian B, Jonathan_F, Fred, Michel
+Rouges : Christian_B, Jonathan_F, Fred, Michel
 9 à 7 pour les jaunes
 Soleil, douceur.
 
 session du mercredi  3 Octobre 2012 : 14 personnes
 Jaunes gagnants: PL, Maurizio, Guillaume F, Séverine,Nelson, Fred, Vincent P
-Rouges : Brice, Christian B, Damin, Carole, Maëlle, Mike, Michel
+Rouges : Brice, Christian_B, Damin, Carole, Maëlle, Mike, Michel
 8 à 7 pour les jaunes
 Soleil, douceur  et aucun vent.
 
@@ -3114,7 +3124,7 @@ Rouges gagnants: Benoit_P, Michel, PL
 Soleil, douceur.
 
 session du mercredi  26  Septembre 2012 : 12 personnes
-Jaunes gagnants: Christian B, Michel, Damien_F, Conrad, Fred, Vincent P
+Jaunes gagnants: Christian_B, Michel, Damien_F, Conrad, Fred, Vincent P
 Rouges gagnants: Brice, Benoit_P, Guillaume F, Séverine, Maurizio, Sylvain C.
 égalité 8 partout match nul
 Couvert, vent du sud
@@ -3127,7 +3137,7 @@ Soleil, douceur.
 
 session du mercredi 18  Septembre 2012 : 12 personnes
 Jaunesl :Guillaume F, Damien_F, Maurizio, Fred, Fabien, Séverine
-Rouges gagnants: Christian B, Guillaume S, Thibaud, Michel, Brice, Conrad
+Rouges gagnants: Christian_B, Guillaume S, Thibaud, Michel, Brice, Conrad
 7 à 5 pour les rouges
 Vent, Nuages, frais.
 
@@ -3139,7 +3149,7 @@ Pluie, vent, frais
 
 session du mercredi  5 Septembre 2012 : 21 personnes
 jaunes :Julien, Damien_F, Benoit_P, Jonathan_F, Thierry
-rouges :Christian B, Sylvain_J, Guillaume F, Séverine, Conrad, Wajih
+rouges :Christian_B, Sylvain_J, Guillaume F, Séverine, Conrad, Wajih
 verts gagnants: Maurizio, Mike, Vincent P, Vincent C, Fred
 bleus gagnants: Brice, Sylvain C, Michel, Nico_HP, Carole
 
@@ -3153,13 +3163,13 @@ Couvert, pas de vent, pas trop chaud : idéal.
 
 session du lundi 3 Septembre 2012 : 9 personnes
 jaunes :Guillaume F, Damien_F, Jonathan_F, Michel, Conrad, Maurizio
-rouges gagnants: Christian B, Fred, Benoit_P, Nico_HP, Brice
+rouges gagnants: Christian_B, Fred, Benoit_P, Nico_HP, Brice
 9 à 5  pour les rouges
 Gris, peu de vent à vent, tiède.
 
 session du vendredi 31 Aout 2012 : 8 personnes
 jaunes :Benoit_P, Brice, Guillaume, Damien_F
-rouges gagnants: Christian B, Michel, Fred, Nico_HP
+rouges gagnants: Christian_B, Michel, Fred, Nico_HP
 7 à 6 pour les rouges
 Gris, pas ou peu venteux. Pas de pluie malgré celle du matin puis de l'après-midi.
 
@@ -3178,7 +3188,7 @@ Beau, pas de vent, pas trop chaud.
 
 session du lundi 27 Aout 2012 : 9 personnes
 jaunes :Fred,  Nico_HP, Jonathan_F, Guillaume F, Conrad
-rouges : Christian B, Benoit_P, Michel, Brice
+rouges : Christian_B, Benoit_P, Michel, Brice
 égalité 5 partout.
 Beau, pas de vent, pas trop chaud.
 
@@ -3217,7 +3227,7 @@ rouges gagnants: Fred, Jacob, Jonathan_F, Thibaud, Vincent P, Loïc X
 10 à 5 pour les rouges,  couvert, doux, aucun vent
 
 session du mercredi  18  Juillet 2012 : 20  personnes en 5x4 équipes
-jaunes gagnants: Christian B, PL, Thibaud, Anthony, Damien_F.
+jaunes gagnants: Christian_B, PL, Thibaud, Anthony, Damien_F.
 rouges : Wajih, Nelson, Fred, Jonathan_F, Joris
 blancs : Michel, Vincent P, Loïc X, Maxime_1, Brice
 noirs : Sylvain_J, Simon, Conrad, Guillaume S, Cédric_X.
@@ -3228,19 +3238,19 @@ Jaune/Rouge : 6/3
 Chaud, soleil, pas de vent, pique-nique.
 
 session du lundi 16  Juillet 2012 : 8  personnes
-jaunes gagnants: Michel, Christian B, Wajih, Brice
+jaunes gagnants: Michel, Christian_B, Wajih, Brice
 rouges : Sylvain_J, Jonathan_F, Issam, Damien_F.
 10 à 1 pour les jaunes, un peu de vent, soleil, doux.
 
 session du vendredi 13  Juillet 2012 : 9  personnes
-jaunes gagnants: Benoit_P, Christian B, Jonathan_F, Michel
+jaunes gagnants: Benoit_P, Christian_B, Jonathan_F, Michel
 rouges : Fred, Jérôme_HP, Vincent P, Brice, Maëlle
 10 à 6 pour les jaunes,  nuageux, doux, aucun vent
 
 session du mercredi  11  Juillet 2012 : 23  personnes
 4 équipes de 3x6 + 1x5, deux terrains, 3 matches par équipe , chaque équipe remporte deux matches
 Carole, Elodie, Séverine, Michel, Maurizio, Fred, Issam, Wajih, Thibaud, Maxime_1, 
-Vincent C, Benoit_P, Jonathan_F, Guillaume S, Conrad, Sylvain C, Sylvain_J, Julien, Joris, Christian B, 
+Vincent C, Benoit_P, Jonathan_F, Guillaume S, Conrad, Sylvain C, Sylvain_J, Julien, Joris, Christian_B, 
 Mohammed, Matthieu, Vincent P
 
 session du lundi 9  Juillet 2012 : 8  personnes
@@ -3249,23 +3259,23 @@ rouges : Fred, Maurizio, Vincent C, Nelson
 11 à 7  pour les jaunes, Soleil, pas de vent, chaleur
 
 session du vendredi 6  Juillet 2012 : 10  personnes
-jaunes gagnants: Benoit_P, Christian B, Jérôme_HP, Maurizio, Jonathan_F
+jaunes gagnants: Benoit_P, Christian_B, Jérôme_HP, Maurizio, Jonathan_F
 rouges : Sylvain_J, Guillaume F, Fred, Michel, Thibaud 
 11 à 8  pour les jaunes, Soleil,  du vent, premier point de John accordé mais faute.
 
 session du mercredi  4 Juillet 2012 : 19  personnes
 jaunes gagnants: Julien, Maurizio, Carole, Guillaume F, Thibaud, Nelson, Fred, Conrad, Loïc X
-rouges : Benoit_P, Christian B, Michel, Clément X, Matthieu, Issam, Wajih, Guillaume S, Sylvain C, 
+rouges : Benoit_P, Christian_B, Michel, Clément X, Matthieu, Issam, Wajih, Guillaume S, Sylvain C, 
 8 à 6 pour les jaunes, Soleil, pas de vent, temp de saison. (2 points pour Carole)
 
 session du vendredi  29 Juin 2012 : 9  personnes
 jaunes: Thibaud, Maurizio, Michel, Fred, Fabien
-rouges gagnants: Benoit_P, Christian B, Mehdi, Jonathan_F
+rouges gagnants: Benoit_P, Christian_B, Mehdi, Jonathan_F
 10 à 8  pour les rouges. Soleil, léger vent du sud, très chaud.
 
 session du mercredi  27 Juin 2012 : 14  personnes
 jaunes gagnants: Guillaume F, Fred, Julien L, Jonathan_F, Maurizio, Joris,Vincent P
-rouges : Benoit_P, Clément X, Michel, Christian B, Sylvain_J, Wajih, Matthieu
+rouges : Benoit_P, Clément X, Michel, Christian_B, Sylvain_J, Wajih, Matthieu
 8 à 6  pour les jaunes. Soleil, léger vent du nord-ouest/ouest. Chaud.
 
 session du vendredi 22 Juin 2012 : 8 personnes
@@ -3280,22 +3290,22 @@ rouges gagnants: Wajih, Guillaume F, Maurizio, Fred, Loïc X, Jonathan_F
 
 session du vendredi  15  Juin 2012  : 6  personnes
 jaunes : Benoit_P, Vincent C, Jonathan_F
-rouges gagnants: Christian B, Michel, Fred
+rouges gagnants: Christian_B, Michel, Fred
 9 à 4  pour les rouges. Chaud, soleil, peu de vent
 
 session du mercredi 13  Juin 2012  : 12  personnes
 jaunes gagnants: PL, Fred, Maxime_1, Maurizio, Sylvain_J, Joris
-rouges : Christian B, Michel, Mehdi, Thibaud, Wajih, Sylvain C
+rouges : Christian_B, Michel, Mehdi, Thibaud, Wajih, Sylvain C
 9 à 7  pour les jaunes. Couvert mais clair, terrain humide (pluie du matin) pas de vent.
 
 session du mercredi 6  Juin 2012  : 14  personnes
 jaunes : Wajih, Romaric, Maurizio, Fred, Issam, Joris, Thibaud
-rouges gagnants: Christian B, Benoit_P, Vincent P, Mehdi, Jonathan_F, Sylvain C, Romaric
+rouges gagnants: Christian_B, Benoit_P, Vincent P, Mehdi, Jonathan_F, Sylvain C, Romaric
 12 à 6  pour les rouges. Couvert mais clair, terrain humide (pluie du matin) pas de vent.
 
 session du vendredi  1er Juin 2012  : 9  personnes
 jaunes : Wajih, Michel, Romaric, Guillaume S, Mehdi
-rouges gagnants: Christian B, Maurizio, Vincent C, Thibaud
+rouges gagnants: Christian_B, Maurizio, Vincent C, Thibaud
 14 à 6  pour les rouges. Soleil, douceur, un peu de vent.
 
 session du mercredi  30  Mai 2012  : 17  personnes
@@ -3341,7 +3351,7 @@ rouges gagnants: Fred, Benoit_P, Michel, Conrad, Issam, Jonathan_F
 
 session du vendredi  20 Avril 2012  : 6  personnes
 jaunes gagnants: Michel, Benoit_P, Fred
-rouges gagnants:  Christian B, Maurizio, PL
+rouges gagnants:  Christian_B, Maurizio, PL
 10 à 10  match nul . Doux, soleil
 
 session du mercredi 18 Avril 2012  : 11  personnes
@@ -3355,17 +3365,17 @@ rouges :  Michel, Romaric, Vincent P, Guillaume B.
 11 à 5 pour les jaunes. Un peu frais, nuageux, soleil et pluie, pas ou peu de vent.
 
 session du vendredi 6 Avril 2012  : 4  personnes
-jaunes gagnants: Christian B, Fred
+jaunes gagnants: Christian_B, Fred
 rouges gagnants:  Benoit_P, Michel
 5 partout match nul. Doux, nuageux, pas de vent.
 
 session du mercredi 4 Avril 2012  : 9  personnes
 jaunes gagnants: Sylvain_J, Conrad, Guillaume F, Maurizio, Wajih
-rouges :  Fred, Christian B, Michel, Jonathan_F
+rouges :  Fred, Christian_B, Michel, Jonathan_F
 11 à 7 pour les jaunes.  Nuageux, pas de pluie, léger vent sur la fin.
 
 session du vendredi 30 Mars 2012  : 6  personnes
-jaunes gagnants: Christian B, PL, Michel
+jaunes gagnants: Christian_B, PL, Michel
 rouges :  Fred, Wajih, Maurizio
 7 à 2 pour les jaunes. Soleil mais vent du Nord. Doux.
 
@@ -3375,7 +3385,7 @@ rouges gagnants: Fred, Wajih, Matthieu, W., Maurizio,  Vincent C
 10 partout match nul.  beau temps,  très doux, pas de vent.
 
 session du mercredi 21 Mars 2012  : 9  personnes
-jaunes : Maurizio, Christian B, PL, Jonathan_F puis Sylvain_J (12h30) qui remplace Maurizio.
+jaunes : Maurizio, Christian_B, PL, Jonathan_F puis Sylvain_J (12h30) qui remplace Maurizio.
 rouges gagnants: Michel, Fred, Guillaume F, Vincent C
 10 à 9  pour les rouges.  beau temps, quelques nuages,  doux.
 
@@ -3386,11 +3396,11 @@ rouges gagnants: Benoit_P,  Fred, Clément X, Jonathan_F
 
 session du mercredi 7 Mars 2012  : 7  personnes
 jaunes gagnants: Maurizio, Guillaume F, Fred, Michel
-rouges :  Benoit_P, Christian B, Conrad
+rouges :  Benoit_P, Christian_B, Conrad
 10 à 9  pour les jaunes.  très beau temps, frais.
 
 session du vendredi 2 Mars 2012  : 8  personnes
-jaunes gagnants: Christian B, Benoit_P, Guillaume B., Michel.
+jaunes gagnants: Christian_B, Benoit_P, Guillaume B., Michel.
 rouges :  Maurizio, Fred, Jonathan_F, Clément X
 12 à 5  pour les jaunes.  très beau temps, doux, terrain poussiéreux.
 
@@ -3400,7 +3410,7 @@ rouges :  Benoit_P, Maurizio, Jonathan_F, Vincent C, PL
 12 à 6  pour les jaunes.  très beau temps, doux, terrain poussiéreux.
 
 session du mercredi 22 Février 2012  : 6  personnes
-jaunes : Christian B, Clément X, Maurizio
+jaunes : Christian_B, Clément X, Maurizio
 rouges gagnants: Michel, Benoit_P, Conrad
 11 à 4  pour les rouges.  très beau temps, frais, terrain gelé en profondeur = très glissant
 
@@ -3414,12 +3424,12 @@ session du mercredi 1er Février 2012  : 4  personnes
 Neige sur le terrain, echauffement puis petits matches entre amis.
 
 session du mercredi 25  Janvier 2012  : 11  personnes
-jaunes : Christian B, Guillaume F, Maurizio, Vincent C, Brice
+jaunes : Christian_B, Guillaume F, Maurizio, Vincent C, Brice
 rouges gagnants: Jonathan_F, Fred, Michel, Sylvain_J, Sylvain C, Clément X
 12 à 4   pour les rouges.  temps gris, pas froid, pas de vent, terrain souple .
 
 session du vendredi 13 Janvier 2012  : 8  personnes
-jaunes : Christian B, Michel, Fred, Fabien
+jaunes : Christian_B, Michel, Fred, Fabien
 rouges gagnants: Guillaume F, Benoit_P, Maurizio, Jonathan_F
 8 à 7  pour les rouges.  temps gris, frais, pas de vent, terrain souple et gras.
 
@@ -3430,11 +3440,11 @@ rouges : Michel, Fred, Matthieu, Clément X, Guillaume F, Fabien, Thomas
 
 session du mercredi 21 Décembre 2011  :  6 personnes
 jaunes : Julien L, Maurizio, Clément X
-rouges gagnants: Michel, Christian B, Fred
+rouges gagnants: Michel, Christian_B, Fred
 14 à 10 pour les rouges. Gris, pas de vent, terrain enneigé !
 
 session du mercredi 14 Décembre 2011  : 8 personnes
-jaunes gagnants: Christian B, Maurizio, Guillaume F, Sylvain_J
+jaunes gagnants: Christian_B, Maurizio, Guillaume F, Sylvain_J
 rouges : Michel, Sylvain C, Damien_F, Julien L.
 12 à 3 pour les jaunes. Gris, frais, pas de vent
 
@@ -3446,7 +3456,7 @@ rouges : Michel, Maurizio, Benoit_P, Jonathan_F
 11 à 7 pour les jaunes. Soleil, pas de vent, frais
 
 session du mercredi 23 Novembre 2011  : 8 personnes
-jaunes : Christian B, Matthieu, Maurizio, Sylvain_J
+jaunes : Christian_B, Matthieu, Maurizio, Sylvain_J
 rouges gagnants: Michel, Sylvain C, Guillaume F, Damien A
 15 à 7 pour les rouges. Soleil, pas de vent, frais
 
@@ -3457,54 +3467,54 @@ rouges gagnants: Chistian, Michel, Guillaume F, Matthieu
 
 session du mercredi 9 Novembre 2011  : 5 personnes
 jaunes gagnants: Michel, Benoit_P, Sylvain C.
-rouges : Christian B, Guillaume F
+rouges : Christian_B, Guillaume F
 10 à 5 pour les jaunes. Soleil, pas de vent, doux
 
 session du mercredi 2 Novembre 2011  : 7 personnes
 jaunes gagnants: Fred, Maurizio, Sylvain_J.
-rouges : Christian B, Guillaume F, Michel, Clément X
+rouges : Christian_B, Guillaume F, Michel, Clément X
 11 à 9 pour les jaunes. Doux, pas de vent, soleil et nuages
 
 session du mercredi 26 Octobre 2011  : 6 personnes
 jaunes gagnants: Benoit_P, Fred, Clément X
-autres : Sylvain C,  Michel,  Christian B
+autres : Sylvain C,  Michel,  Christian_B
 7 à 5 pour les autres. Beau, doux, pas de vent.
 
 session du mercredi 19 Octobre 2011  : pas de session
 
 session du mercredi 12 Octobre 2011  : 14 personnes
 jaunes gagnants: Maurizio, PL, Clément X, Damien A, Adlane, Guillaume F, Matthieu
-rouges : Sylvain C,  Michel, Sylvain_J, René, Fred, Thomas, Christian B
+rouges : Sylvain C,  Michel, Sylvain_J, René, Fred, Thomas, Christian_B
 12 à 10 pour les jaunes. Beau, doux, pas de vent.
 
 session du mercredi 5 Octobre 2011  : 16 personnes
-jaunes gagnants: Maurizio, Thomas, Julien L, Christian B, Guillaume F, René,  Fred, PL
+jaunes gagnants: Maurizio, Thomas, Julien L, Christian_B, Guillaume F, René,  Fred, PL
 rouges : Sylvain C,  Michel, Damien_F, Damien A, Benoit_P, Clément X, Adlane, Matthieu
 12 à 6 pour les jaunes. Beau, doux, pas de vent.
 
 session du mercredi 28 Septembre 2011  : 15 personnes
-jaunes gagnants: Maurizio, Vincent C,Guillaume F, Adlane, Michel, Fred, Christian B,  Damien A
+jaunes gagnants: Maurizio, Vincent C,Guillaume F, Adlane, Michel, Fred, Christian_B,  Damien A
 rouges : Sylvain C,  René, Swann, Benoit_P, Thomas,  Yves, Matthieu
 13 à 8 pour les jaunes. Beau, doux, pas de vent.
 
 session du mercredi 21 Septembre 2011  : 12 personnes
 jaunes : Maurizio, Vincent C, Julien, Sylvain_J, Michel,  Guillaume F
-rouges gagnants: Sylvain C, Fred, René, Christian B,  Damien_F,  Swann
+rouges gagnants: Sylvain C, Fred, René, Christian_B,  Damien_F,  Swann
 11 à 8 pour les rouges. Beau, doux, pas de vent.
 
 session du mercredi 14 Septembre 2011  : 13 personnes
-jaunes gagnants: Christian B, Maurizio, Michel, Adlane, Conrad, Florence,  Fred
+jaunes gagnants: Christian_B, Maurizio, Michel, Adlane, Conrad, Florence,  Fred
 rouges : Benoit_P, Sylvain C, René,  Yves,  André, Sylvain_J.
 10 à 4 pour les jaunes.
 
 session du vendredi 9 Septembre 2011  : 8 personnes
-jaunes gagnants: Christian B, Maurizio, Jérôme, PierreA
+jaunes gagnants: Christian_B, Maurizio, Jérôme, PierreA
 rouges : Benoit_P, Michel, Yves, Conrad
 13 à 6 pour les jaunes
 
 session du mercredi 7 Septembre 2011  : 14  personnes
 jaunes gagnants: PL, Sylvain_J, Fred, Julien, Michel, Damien_F, Maxime_1
-rouges : Sylvain C, Guillaume F, Maurizio, Benoit_P (le retour), Christian B, Thomas, Thibaud
+rouges : Sylvain C, Guillaume F, Maurizio, Benoit_P (le retour), Christian_B, Thomas, Thibaud
 12 à 7  pour les jaunes
 Que des mecs ! La der pour Thibaud.
 
@@ -3516,7 +3526,7 @@ Météo : soleil, chaud, pas de vent. Dernière de Sév et damien G. Sév compte
 
 session du vendredi 26 Aout 2011  : 6  personnes
 jaunes: Fred, Yves, Michel
-rouges : Elisabeth, Christian B, Maurizio
+rouges : Elisabeth, Christian_B, Maurizio
 6 à 4  pour les jaunes
 Météo : chaleur, vent fort du sud avant orages
 
@@ -3529,13 +3539,13 @@ Marion compte double (3x2 point marqués)
 
 session du vendredi  5 Aout 2011  : 10  personnes
 jaunes : Jérôme_HP, Fred, Guillaume F, Michel, Elisabeth
-rouges gagnants: Sylvain C, Christian B, Conrad, Séverine D,  Damien A.
+rouges gagnants: Sylvain C, Christian_B, Conrad, Séverine D,  Damien A.
 13 à 11 pour les rouges
 Météo : chaud, soleil, brise légère
 Les filles comptent double.
 
 session du mercredi 3 Aout 2011  : 21  personnes
-jaunes gagnants: Yves G. Fred T, Maxime_1, Christian B, Michel, Elisabeth, Séverine D, Damien_F, Thomas, Guillaume F, Conrad
+jaunes gagnants: Yves G. Fred T, Maxime_1, Christian_B, Michel, Elisabeth, Séverine D, Damien_F, Thomas, Guillaume F, Conrad
 rouges : Sylvain_J, PL, Thibaud, Sylvain C, Julien L, Marion, Séverine G, Vincent C, Damien A, Sami
 11 à 8 pour les jaunes
 Météo : nuages et soleil, peu de vent, chaud mais pas trop.
@@ -3567,7 +3577,7 @@ pour cause de très mauvais temps
 
 session du lundi 11Juillet 2011  : 8  personnes
 jaunes : Michel, Julien R, Maurizio, Thibaud
-rouges gagnants: Elisabeth, Christian B, Maxime_1,  Damien A
+rouges gagnants: Elisabeth, Christian_B, Maxime_1,  Damien A
 8 à 3 pour les rouges 
 Météo :  soleil, très chaud, pas de vent.
 Terrain  normal
@@ -3595,7 +3605,7 @@ Terrain ras, souple
 
 session du mercredi   29  Juin 2011  : 14  personnes
 jaunes gagnants: Elisabeth, Julien L, Guillaume F, Damien A, Sylvain_J, Paul1, Vincent C
-rouges gagnants: Marion, Michel, Maurizio, Sylvain C, Christian B,  PL, Jonathan_F
+rouges gagnants: Marion, Michel, Maurizio, Sylvain C, Christian_B,  PL, Jonathan_F
 égalité 7-7  match nul
 Météo : vent du nord fort en rafales, temps très couvert, doux.
 Terrain ras, souple 
@@ -3609,14 +3619,14 @@ Terrain ras, souple
 
 session du mercredi 22 Juin 2011  : 11  personnes
 jaunes gagnants: Michel, Maurizio, Guillaume F, Damien_F, Julien R, PL (6)
-rouges : Christian B, Martial, Sylvain C, Damien A, Jonathan_F (5)
+rouges : Christian_B, Martial, Sylvain C, Damien A, Jonathan_F (5)
 Les jaunes  gagnent 12 à 6
 Météo : nuageux, lourd, chaud, lever de vent du sud
 Terrain ras, souple des pluies d'orages de la veille.
 
 session du vendredi 17 Juin 2011  : 5  personnes
 jaunes : Michel, Maurizio, Thibaut
-rouges gagnants: Christian B, Damien A
+rouges gagnants: Christian_B, Damien A
 Les rouges gagnent 11 à 8
 Météo : nuageux, lourd, chaud, peu de vent.
 Terrain ras, souple des pluies d'orages de la veille.
@@ -3629,7 +3639,7 @@ Météo : soleil chaleur, un peu de vent vers la fin.
 Terrain en cours de coupe.
 
 session du vendredi 10 Juin 2011  : 8  personnes
-jaunes gagnants: Michel, Christian B, PL, Marion
+jaunes gagnants: Michel, Christian_B, PL, Marion
 rouges : Maurizio, Benoit_P, Jonathan_F, Paul1
 Les jaunes gagnent 8 à 6
 Météo : lumineux, doux, pas ou peu de vent.
@@ -3646,7 +3656,7 @@ session du mercredi 1er Juin 2011  : annulée.
 
 session du mercredi 25  Mai 2011  : 15  personnes
 jaunes : Damien G, Benoit_P, Maurizio, Paul1, Guillaume F, Vincent C , Jonathan_F
-rouges gagnants: Michel, Christian B, Swann, Sylvain C, Séverine D,  Damien G,  Martial, Thibaud
+rouges gagnants: Michel, Christian_B, Swann, Sylvain C, Séverine D,  Damien G,  Martial, Thibaud
 Les rouges gagnent 10 à 8.
 Météo : soleil , chaud, peu de vent, étudiantes sur la pelouse (concours médecine ?)
 Terrain sec,  ras.
@@ -3680,7 +3690,7 @@ Météo : soleil et nuages, vent désagréable
 Terrain souple, tondu en repousse, sev D à deux points.
 
 session du vendredi 29  Avril 2011  : 7  personnes
-jaunes : Christian B, Sev G., Damien A, Vincent C
+jaunes : Christian_B, Sev G., Damien A, Vincent C
 rouges gagnants: Benoit_P, Julien, Michel
 Les rouges écrasent les jaunes 11 à 6
 Météo : nuageux, doux, pas de vent
@@ -3688,13 +3698,13 @@ Terrain souple, fraichement tondu.
 
 session du mercredi 27  Avril 2011  : 11  personnes
 jaunes : PL., Michel, Sev D., Damien G,  Julien
-rouges gagnants: Damien A, Sev G., Julien R., Martial, Sylvain C, Christian B
+rouges gagnants: Damien A, Sev G., Julien R., Martial, Sylvain C, Christian_B
 Les rouges, majoritaires, gagnent 13 à 8 (sev D à deux points)
 Météo : soleil, doux, un peu de vent.
 Terrain  souple , pissenlits
 
 session du mercredi 20  Avril 2011  : 11  personnes
-Guillaume, Damien A, Benoit_P, PL, Julien, Christian B, Maurizio, Sev D., Martial, Sev G., Vincent C
+Guillaume, Damien A, Benoit_P, PL, Julien, Christian_B, Maurizio, Sev D., Martial, Sev G., Vincent C
 
 session du mercredi 13  Avril 2011  : 13  personnes
 rouges : Sylvain_J,  Jonathan_F,  Séverine D., Benoit_P, Damien A, Martial, PL.
@@ -3706,7 +3716,7 @@ Terrain  souple , pissenlits
 
 session du vendredi 8 Avril 2011  : 7  personnes
 rouges : Jérôme, Maurizio, Guillaume, PierreA
-jaunes gagnants: Christian B, Benoit_P, Michel
+jaunes gagnants: Christian_B, Benoit_P, Michel
 Les jaunes  gagnent 13 à 8
 Météo : soleil, douceur, peu de vent
 Terrain  sec , pissenlits
@@ -3726,7 +3736,7 @@ Météo : nuages et soleil, très peu de vent.
 Terrain  souple (pluie de la nuit)
 
 session du vendredi 25 Mars 2011  : 6 personnes
-rouges : Maurizio, PierreC, Christian B
+rouges : Maurizio, PierreC, Christian_B
 jaunes gagnants: Michel,  Damien A, Jonathan_F
 Les rouges  gagnent 8 à 3 (ou 8 à 4)
 Météo : soleil ,  douceur, peu de vent (flux de Nord)
@@ -3734,14 +3744,14 @@ Terrain  sec
 
 session du mercredi 23 Mars 2011  : 14 personnes
 rouges gagnants: PL, Julien, Sylvain, J, Séverine D, Jonathan_F, Vincent C, Martial
-jaunes : Michel,  Maurizio, Christian B, Damien A, Guillaume, Séverine G, Florent_C
+jaunes : Michel,  Maurizio, Christian_B, Damien A, Guillaume, Séverine G, Florent_C
 Les rouges  gagnent 12 à  8
 Météo : soleil ,  douceur, pas de vent
 Terrain  sec
 
 session du mercredi 16 Mars 2011  : 7 personnes
 rouges : PL, Benoit_P, Guillaume
-blancs gagnants: Michel,  Maurizio, Sylvain C., Christian B
+blancs gagnants: Michel,  Maurizio, Sylvain C., Christian_B
 Les blancs  gagnent 9 à  8
 Météo : soleil et nuages, douceur, pas de vent
 Terrain  sec
@@ -3755,13 +3765,13 @@ Terrain  souple
 
 session du mercredi2 Mars 2011  : 10 personnes
 rouges gagnants: Benoit_P, Séverine D, Sylvain_J,  Martial, Sylvain C
-jaunes : Michel,  Guillaume, Christian B, Jérôme, Julien
+jaunes : Michel,  Guillaume, Christian_B, Jérôme, Julien
 Les rouges gagnent 11 à  8 dont 4 points de Séverine (compte double)
 Météo : gris, frais, vent du nord (léger)
 Terrain  souple
 
 session du mercredi 23  Février 2011  : 10 personnes
-rouges gagnants: Christian B, PL, Séverine D, Sylvain_J,  Martial
+rouges gagnants: Christian_B, PL, Séverine D, Sylvain_J,  Martial
 jaunes : Benoit_P, Michel, Maurizio, Sylvain C, Guillaume
 Les rouges gagnent 12 à  8 dont 10 points de Séverine (compte double)
 Météo : soleil, brise nordique légère, frais
@@ -3775,7 +3785,7 @@ Météo : gris frais
 Terrain  insalubre
 
 session du mercredi 9 Février 2011  : 13 personnes
-rouges gagnants: Christian B, Sylvain_J, Jérôme, Maurizio, PL,  Martial
+rouges gagnants: Christian_B, Sylvain_J, Jérôme, Maurizio, PL,  Martial
 jaunes : Damien A, Michel, Benoit_P, Guillaume, Jonathan_F, Séverine D., Sylvain C.
 Les rouges gagnent 13 à 8
 Météo : pas de vent, soleil, doux.
@@ -3785,7 +3795,7 @@ session du mercredi 2 Février 2011  :  personne
 Pas de session faute de participants suffisants.
 
 session du mercredi 26 Janvier 2011  : 9 personnes
-rouges gagnants: Christian B, Benoit_P, Maurizio, Sylvain C.
+rouges gagnants: Christian_B, Benoit_P, Maurizio, Sylvain C.
 jaunes : Damien A, Michel, Guillaume, Sylvain_J,  Jonathan_F
 Les rouges gagnent 10 à 5
 Météo : pas de vent, soleil, frais.
@@ -3793,14 +3803,14 @@ Terrain gras, en dégel.
 
 session du mercredi 19 Janvier 2011  : 11 personnes
 rouges gagnants: Michel,  Séverine G, Christian 2, Sylvain_J, Julien, Guillaume
-jaunes : Damien A, Maurizio, Séverine D, Christian B, Sylvain C, Martial
+jaunes : Damien A, Maurizio, Séverine D, Christian_B, Sylvain C, Martial
 Les rouges gagnent 11 à 7
 Météo : vent du nord, éclaircies, froid
 Terrain semi-gras.
-(1) Christian B, arrivé en retour, rejoint le groupe faible des jaunes, puis, sur blessure de Sev G, rejoint les rouges
+(1) Christian_B, arrivé en retour, rejoint le groupe faible des jaunes, puis, sur blessure de Sev G, rejoint les rouges
 
 session du vendredi 14 Janvier 2011  : 8 personnes
-jaunes gagnants: Michel,  Séverine G, Christian B, Benoit_P
+jaunes gagnants: Michel,  Séverine G, Christian_B, Benoit_P
 rouges : Damien A, Jonathan_F, Julien, Maurizio
 Les jaunes gagnent 10 à 8
 Météo : pas de vent, soleil et voiles
@@ -3808,7 +3818,7 @@ Terrain gras
 la phrase du jour : Séverine, sur un reproche de  Christian à propos de la possibilité de rattraper le disque dans l'en-but :  "moi, j'ai le compas dans l'oeil, toi, l'espoir, ça n'a rien à voir !"
 
 session du mercredi 12 Janvier 2011  : 15 personnes
-jaunes : Michel,  Séverine D,  PL, Vincent C, Christian B,  Jonathan_F, Greg
+jaunes : Michel,  Séverine D,  PL, Vincent C, Christian_B,  Jonathan_F, Greg
 rouges gagnants: Benoit_P, Maurizio, Guillaume, Séverine G, Damien A, Sylvain_J, Sylvain C, Mohamed
 Les rouges gagnent 11 à 10
 Les filles comptent deux points
@@ -3824,20 +3834,20 @@ Terrain très gras
 
 session du mercredi 15 Décembre 2010  : 9 personnes
 jaunes : Michel, Sylvain_J, Greg, Séverine, Guillaume
-rouges gagnants: Christian B, Benoit_P, Maurizio, Jonathan_F
+rouges gagnants: Christian_B, Benoit_P, Maurizio, Jonathan_F
 Les rouges l'emportent avec deux points d'écart (9 à 7 je crois)
 Météo : nuages, soleil voilé, bise glaciale, température négative, vent fort
 Terrain gelé
 
 session du mercredi 8 Décembre 2010  : 11 personnes
 jaunes : PL, Maurizio, Sylvain_J, Benoit_P, Michel,  Greg
-rouges gagnants: Séverine G, Christian B, Julien Le Grand,  Guillaume,  Sylvain C
+rouges gagnants: Séverine G, Christian_B, Julien Le Grand,  Guillaume,  Sylvain C
 Sév = 2pts - score 11-9 pour les rouges (6 pts de Sév)
 Météo : soleil, nuages et doux !
 Terrain gras
 
 session du mercredi 1er Décembre 2010  : 5 personnes
-présents : Christian B, Maurizio, Damien A, Guillaume et Michel.
+présents : Christian_B, Maurizio, Damien A, Guillaume et Michel.
 Météo : neige, froid
 Terrain recouvert de 25cm de neige fraiche - le fun quoi !
 
@@ -3856,7 +3866,7 @@ Météo : soleil, frais, peu de vent
 Terrain gras
 
 session du mercredi 10 Novembre 2010  : 10 personnes
-les rouges  : Maurizio, Guillaume, Greg, Jonathan_F,  Christian B
+les rouges  : Maurizio, Guillaume, Greg, Jonathan_F,  Christian_B
 les jaunes gagnants: Julien L, Julien R, Sylvain_J,  Michel, Séverine
 les jaunes ont gagné 12 à 9 (point double pour Séverine qui a marqué 3 fois)
 Météo : gris, pas de pluie, peu de vent
@@ -3864,7 +3874,7 @@ Terrain glissant
 
 session du vendredi 5 Novembre 2010  : 9 personnes
 exceptionnellement, la feuille de match enregistre un vendredi vu le succès remporté.
-les neutres  gagnants: Michel, Jonathan_F, Christian B, Benoit_P, Hervé.
+les neutres  gagnants: Michel, Jonathan_F, Christian_B, Benoit_P, Hervé.
 les jaunes gagnants: Maurizio, Greg, Jonathan_F,  Séverine, Guillaume
 égalité 10 partout  match nul, changement dans les équipes suite à un déséquilibre (Jonathan_F est passé des neutres aux jaunes)
 Météo : soleil, doux, pas de vent
@@ -3872,7 +3882,7 @@ Terrain sec
 
 session du mercredi 3 Novembre 2010  : 14 personnes
 les rouges  :Julien L, Julien R, Martial, Sylvain C, Mohamed,  Benoit_P W, Michel.
-les jaunes gagnants: Maurizio, PL,  Sylvain_J, Séverine G, Christian B, Jonathan_F,  Damien A
+les jaunes gagnants: Maurizio, PL,  Sylvain_J, Séverine G, Christian_B, Jonathan_F,  Damien A
 les jaunes ont gagné 11 à 8 (point double pour Séverine qui a marqué 3 fois)
 Météo : soleil, doux, pas de vent
 Terrain sec
@@ -3893,7 +3903,7 @@ Terrain humide
 
 session du mercredi 13 Octobre 2010  : 12 personnes
 les rouges  :Séverine G, Julien R,  Maurizio,  Sylvain C, Sylvain_J,  Benoit_P W.
-les jaunes gagnants: Michel,  Christian B, Benoit_P, PL, Sev D,  Guillaume
+les jaunes gagnants: Michel,  Christian_B, Benoit_P, PL, Sev D,  Guillaume
 les jaunes ont gagné ! 10 à 7
 Météo : gris, pas de vent , frais
 Terrain sec , herbe qui pousse
@@ -3913,7 +3923,7 @@ Météo : beau temps, pas de vent , soleil, fraicheur
 Terrain sec , herbe coupée
 
 session du mercredi 22 Septembre 2010  : 14 personnes
-les rouges  : Guillaume, Jonathan_F, Séverine G, Christian B, Benoit_P, Greg (HP), Sylvain C.
+les rouges  : Guillaume, Jonathan_F, Séverine G, Christian_B, Benoit_P, Greg (HP), Sylvain C.
 les jaunes gagnants: Michel, Maurizio, Mohamed, Julien L, Damien A, Max (HP), PL
 les jaunes ont gagné ! 11 à 7
 Météo : beau temps, pas de vent , soleil, douceur
@@ -3922,7 +3932,7 @@ Terrain sec , herbe fraichement coupée
 session du 8 et 15 Septembre : pas de données
 
 session du mercredi 1er Septembre 2010  : 14 personnes
-les rouges  : Sév D, Sylvain C,   Greg, Benoit_P W,  Michel, Sylvan J, Christian B
+les rouges  : Sév D, Sylvain C,   Greg, Benoit_P W,  Michel, Sylvan J, Christian_B
 les jaunes gagnants: Benoit_P, Gauthier, Julien L, Maurizio, Fabrice, Hervé, Jonathan_F
 les jaunes ont gagné !
 Météo : beau temps, pas de vent , soleil, douceur
@@ -3944,7 +3954,7 @@ Météo : beau temps assez chaud, vent , soleil et nuages
 Terrain sec 
 
 session du mercredi 7  Juillet 2010  : 18  personnes
-les présents :  Benoit_P, Guillaume,  Sylvain_J, Sylvain C, Greg, Julien L, Tommy,  Laurent, Michel, Seb, Coissou,    Martial., Jonathan_F, Hervé,  PL, Sylvain P (première !),  Yves (le grand retour !) , Christian B !
+les présents :  Benoit_P, Guillaume,  Sylvain_J, Sylvain C, Greg, Julien L, Tommy,  Laurent, Michel, Seb, Coissou,    Martial., Jonathan_F, Hervé,  PL, Sylvain P (première !),  Yves (le grand retour !) , Christian_B !
 Météo : beau temps assez chaud, vent léger, soleil
 Terrain sec mais pas tondu. du tout !
 
@@ -3956,7 +3966,7 @@ Terrain sec mais pas tondu.
 session du mercredi 23 Juin 2010  : 22  personnes
 Les 4 équipes (2x5 et 2x6) : 
 équipe 1 : Michel, PL, Guillaume, Séverine G, Julien L
-équipe 2 : Damien A, Olivier, Christian B, Benoit_P, Sev D.
+équipe 2 : Damien A, Olivier, Christian_B, Benoit_P, Sev D.
 équipe 3 et 4 : Sylvan J,  Gregory, Maurizio, Sylvain C, Vincent C,  Nathan_X, Jonathan_F, Benoit_P W, Martial,  Sebastien, Coissou,  Tommy
 
 Météo : beau temps doux, peu de vent, soleil
@@ -3983,7 +3993,7 @@ Météo : sec, nuages, doux, venteux (nord)
 Terrain sec
 
 session du mercredi 26  Mai 2010  : 17  personnes
-équipe 1 gagnants: Michel, Philippe, Hervé, Séverine D., Sylvain C, Sébastien, Sylvain_J., Christian B
+équipe 1 gagnants: Michel, Philippe, Hervé, Séverine D., Sylvain C, Sébastien, Sylvain_J., Christian_B
 équipe 2 gagnants: Tommy, Greg,  Damien A, Guillaume, Olivier, Maurizio, Julien L, Coisou, Séverien G.
 Score :  7-7 match nul
 Météo : sec, nuages, doux
@@ -3997,7 +4007,7 @@ Météo : sec, très venteux, nuages, doux
 Terrain sec
 
 session du mercredi 12 Mai 2010  : 13  personnes
-équipe 1 gagnants: Philippe, Christian B, Michel, Séverine, Sebastien, Guillaume,  Gregory
+équipe 1 gagnants: Philippe, Christian_B, Michel, Séverine, Sebastien, Guillaume,  Gregory
 équipe 2 : Tommy, Benoit_P, Maurizio, Thomas, Coissou,  Sylvain_J.
 Score :12-7
 Météo : pluie , aucun vent, frais
@@ -4018,7 +4028,7 @@ Météo : beau, sec, chaud, pas de vent
 Terrain sec
 
 session du vendredi 23  Avril 2010  : 9  personnes
-équipe 1 gagnants: Christian B, Benoit_P, Thomas, Sébastien, (Michel)
+équipe 1 gagnants: Christian_B, Benoit_P, Thomas, Sébastien, (Michel)
 équipe 2 : Julien L, Guillaume,Coissou ,Fabrice,(Michel)
 Score :11-7
 Météo : gris, sec, sans vent, lourd.
@@ -4046,7 +4056,7 @@ Météo : petit vent et soleil
 terrain un "poil" humide
 
 session du mercredi 31 Mars 2010  : 15  personnes
-équipe 1 gagnants: Christian B, Maurizio, Gregory, Sylvain C, Sylvain_J,  Guillaume,  Jonathan_F,  Sébastien
+équipe 1 gagnants: Christian_B, Maurizio, Gregory, Sylvain C, Sylvain_J,  Guillaume,  Jonathan_F,  Sébastien
 équipe 2 : Benoit_P, Julien L,  Michel, Tommy, Thomas,  Stéphane, Gaël
 Score :11-6
 Météo : gris, pluie au début, pas de vent 
@@ -4068,14 +4078,14 @@ Terrain sec
 
 session du mercredi 10 Mars 2010  : 14 personnes
 équipe 1 gagnants: Sylvain_J.,Tommy, Gregory,  Maurizio, Julien L; Thomas, Séverine D.
-équipe 2 : Christian B, Benoit_P, Sébastien, Michel, Sylvain C, Séverine G, Stéphane
+équipe 2 : Christian_B, Benoit_P, Sébastien, Michel, Sylvain C, Séverine G, Stéphane
 Score :8-4
 Météo : Gris/soleil, vent du nord, froid
 Terrain boueux 
 
 session du mercredi 3 Mars 2010  : 11 personnes
 équipe 1 gagnants: Sylvain_J., Michel, Tommy, Gregory, Stéphane,  Gaël
-équipe 2 : Christian B, Benoit_P, Sébastien, Thomas, Maurizio
+équipe 2 : Christian_B, Benoit_P, Sébastien, Thomas, Maurizio
 Score :12-6
 Météo : pluvieux, pas de vent,  froid.
 Terrain de plus en plus boueux 
@@ -4092,42 +4102,42 @@ session du mercredi 17 Février 2010  : session annulée
 pas assez de personnes inscrites (4) et temps pluvieux.
 
 session du mercredi 10 Février 2010  : 8 personnes
-équipe 1 gagnants: Christian B, Benoit_P,  Maurizio, Sylvain_J.
+équipe 1 gagnants: Christian_B, Benoit_P,  Maurizio, Sylvain_J.
 équipe 2 : Greg, Tommy, Michel, Julien L
 Score :6-5 
 Météo : gris, fort vent du nord en rafales, froid
 Terrain dégelé mais non boueux.
 
 session du mercredi 3 Février 2010  : 9 personnes
-équipe 1 gagnants: Christian B, Benoit_P,  Maurizio, Matthieu
+équipe 1 gagnants: Christian_B, Benoit_P,  Maurizio, Matthieu
 équipe 2 : Greg, Tommy, Sylvain_J, Michel, Julien L
 Score :8-7 (dont 2 points limites)
 Météo : soleil, ni frais, ni doux, pas de vent
 Terrain dégelé et boueux, très glissant : obligation de jouer au milieu de la prairie.
 
 session du mercredi 27  Janvier 2010  : 7 personnes
-équipe 1 gagnants: Christian B, Benoit_P, Tommy
+équipe 1 gagnants: Christian_B, Benoit_P, Tommy
 équipe 2 : Greg, Maurizio, Sylvain_J, Michel
 Score :11-3
 Météo : froid, gris , léger vent du nord
 Terrain légèrement gelé en surface (croute) mais souple.
 
 session du mercredi 20  Janvier 2010  : 7 personnes
-équipe 1 : Christian B, Benoit_P, Sylvain_J, Séverine, Michel
+équipe 1 : Christian_B, Benoit_P, Sylvain_J, Séverine, Michel
 équipe 2 gagnants: Tommy, Greg, Maurizio, Julien L
 Score :5-7
 Météo : froid, gris puis neige, terrain gelé
-Blessure de Christian B en fin de partie (cuisse)
+Blessure de Christian_B en fin de partie (cuisse)
 
 session du mercredi 13 Janvier 2010  : 6 personnes
-équipe 1 gagnants: Christian B, Maurizio, Greg
+équipe 1 gagnants: Christian_B, Maurizio, Greg
 équipe 2 gagnants: Tommy, Benoit_P, Sylvain_J.
 Score :7-7 match nul
 Météo : froid, gris pluvieux, terrain enneigé (15cm)
 Scènes filmées par Sylvain_J.
 
 session du mercredi 6 Janvier 2010  : 7 personnes
-équipe gagnants: Christian B, Benoit_P, Michel, Sylvain_J.
+équipe gagnants: Christian_B, Benoit_P, Michel, Sylvain_J.
 autre équipe : Gregory , Tommy, Sylvain C., Sylvain_J.
 Score :9-6
 Météo : froid, gris, terrain enneigé (10cm)
